@@ -1,0 +1,294 @@
+{
+ "stats": {
+  "train_hours_saved": 2655,
+  "trips_changed": 195072,
+  "trips_unchanged": 3841199,
+  "trips_saving_over_60s": 24586,
+  "trips_slower": 0
+ },
+ "hist": {
+  "edges": [
+   -300,
+   -290,
+   -280,
+   -270,
+   -260,
+   -250,
+   -240,
+   -230,
+   -220,
+   -210,
+   -200,
+   -190,
+   -180,
+   -170,
+   -160,
+   -150,
+   -140,
+   -130,
+   -120,
+   -110,
+   -100,
+   -90,
+   -80,
+   -70,
+   -60,
+   -50,
+   -40,
+   -30,
+   -20,
+   -10,
+   0,
+   10,
+   20,
+   30,
+   40,
+   50,
+   60
+  ],
+  "riders": [
+   160.0,
+   52.0,
+   17.0,
+   22.0,
+   1.0,
+   22.0,
+   74.0,
+   32.0,
+   45.0,
+   62.0,
+   152.0,
+   130.0,
+   270.0,
+   226.0,
+   491.0,
+   565.0,
+   503.0,
+   912.0,
+   1564.0,
+   1542.0,
+   2667.0,
+   3796.0,
+   5369.0,
+   5910.0,
+   7200.0,
+   110945.0,
+   16882.0,
+   13676.0,
+   12715.0,
+   11214.0,
+   3839052.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "unchanged": 3841199
+ },
+ "walk": {
+  "edges": [
+   0,
+   10,
+   20,
+   30,
+   40,
+   50,
+   60,
+   70,
+   80,
+   90,
+   100,
+   110,
+   120,
+   130,
+   140,
+   150,
+   160,
+   170,
+   180,
+   190,
+   200,
+   210,
+   220,
+   230,
+   240,
+   250,
+   260,
+   270,
+   280,
+   290,
+   300
+  ],
+  "riders": [
+   0.0,
+   430.0,
+   1072.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   388.0,
+   9.0,
+   624.0,
+   0.0,
+   0.0,
+   2704.0,
+   519.0,
+   831.0,
+   487.0,
+   807.0,
+   521.0,
+   2238.0,
+   0.0,
+   0.0,
+   621.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "top": [
+  {
+   "name": "Bedford Av",
+   "routes": "L",
+   "hours": 259.0
+  },
+  {
+   "name": "1 Av",
+   "routes": "L",
+   "hours": 198.1
+  },
+  {
+   "name": "14 St-Union Sq",
+   "routes": "4 5 6 L N Q R W",
+   "hours": 124.5
+  },
+  {
+   "name": "Myrtle-Wyckoff Avs",
+   "routes": "L M",
+   "hours": 100.0
+  },
+  {
+   "name": "Lorimer St",
+   "routes": "G L",
+   "hours": 92.7
+  },
+  {
+   "name": "Grand Central-42 St",
+   "routes": "4 5 6 7 S",
+   "hours": 70.9
+  },
+  {
+   "name": "DeKalb Av",
+   "routes": "L",
+   "hours": 70.4
+  },
+  {
+   "name": "Graham Av",
+   "routes": "L",
+   "hours": 68.4
+  },
+  {
+   "name": "14 St",
+   "routes": "1 2 3 F L M",
+   "hours": 65.6
+  },
+  {
+   "name": "14 St",
+   "routes": "A C E L",
+   "hours": 65.0
+  },
+  {
+   "name": "Times Sq-42 St",
+   "routes": "1 2 3 7 A C E N Q R S W",
+   "hours": 64.5
+  },
+  {
+   "name": "34 St-Penn Station",
+   "routes": "A C E",
+   "hours": 54.7
+  }
+ ],
+ "topShare": 0.465,
+ "totalHours": 2655,
+ "examples": [
+  {
+   "saved_s": 270,
+   "origin": "L08",
+   "destination_complex": "610",
+   "depart": 28800,
+   "arrive_today": 29820,
+   "arrive_without": 29550,
+   "riders_8am_hour": 306.3471325
+  },
+  {
+   "saved_s": 270,
+   "origin": "L17",
+   "destination_complex": "610",
+   "depart": 30300,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 76.379565
+  },
+  {
+   "saved_s": 270,
+   "origin": "L17",
+   "destination_complex": "610",
+   "depart": 30360,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 76.379565
+  },
+  {
+   "saved_s": 270,
+   "origin": "L17",
+   "destination_complex": "610",
+   "depart": 30420,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 76.379565
+  },
+  {
+   "saved_s": 270,
+   "origin": "L16",
+   "destination_complex": "610",
+   "depart": 30420,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 74.134235
+  },
+  {
+   "saved_s": 270,
+   "origin": "L16",
+   "destination_complex": "610",
+   "depart": 30480,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 74.134235
+  },
+  {
+   "saved_s": 270,
+   "origin": "L16",
+   "destination_complex": "610",
+   "depart": 30540,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 74.134235
+  },
+  {
+   "saved_s": 270,
+   "origin": "L15",
+   "destination_complex": "610",
+   "depart": 30480,
+   "arrive_today": 32190,
+   "arrive_without": 31920,
+   "riders_8am_hour": 34.819692499999995
+  }
+ ]
+}

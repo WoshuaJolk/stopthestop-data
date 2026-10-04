@@ -1,0 +1,6416 @@
+{
+ "stops": [
+  {
+   "id": "F12",
+   "name": "5 Av/53 St",
+   "routes": "E F",
+   "users": 32241,
+   "through": 240938,
+   "walkLine": 215,
+   "walkAny": 210,
+   "walkStation": 398,
+   "ada": "no",
+   "rideDelta": [
+    1974,
+    -7796333,
+    -17433853
+   ]
+  },
+  {
+   "id": "L05",
+   "name": "3 Av",
+   "routes": "L",
+   "users": 11249,
+   "through": 177494,
+   "walkLine": 173,
+   "walkAny": 151,
+   "walkStation": 270,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -6009893,
+    -13109669
+   ]
+  },
+  {
+   "id": "416",
+   "name": "138 St-Grand Concourse",
+   "routes": "4 5",
+   "users": 5700,
+   "through": 125506,
+   "walkLine": 350,
+   "walkAny": 211,
+   "walkStation": 625,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4582924,
+    -9603179
+   ]
+  },
+  {
+   "id": "L12",
+   "name": "Grand St",
+   "routes": "L",
+   "users": 10021,
+   "through": 113180,
+   "walkLine": 183,
+   "walkAny": 183,
+   "walkStation": 482,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -3937901,
+    -8465088
+   ]
+  },
+  {
+   "id": "218",
+   "name": "Intervale Av",
+   "routes": "2 5",
+   "users": 4499,
+   "through": 72060,
+   "walkLine": 145,
+   "walkAny": 141,
+   "walkStation": 386,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2719578,
+    -5601971
+   ]
+  },
+  {
+   "id": "219",
+   "name": "Prospect Av",
+   "routes": "2 5",
+   "users": 8607,
+   "through": 74240,
+   "walkLine": 184,
+   "walkAny": 174,
+   "walkStation": 507,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2784696,
+    -5754288
+   ]
+  },
+  {
+   "id": "616",
+   "name": "E 143 St-St Mary's St",
+   "routes": "6",
+   "users": 2673,
+   "through": 52533,
+   "walkLine": 129,
+   "walkAny": 125,
+   "walkStation": 598,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1617228,
+    -3718566
+   ]
+  },
+  {
+   "id": "137",
+   "name": "Chambers St",
+   "routes": "1 2 3",
+   "users": 27617,
+   "through": 179464,
+   "walkLine": 106,
+   "walkAny": 106,
+   "walkStation": 138,
+   "ada": "yes",
+   "rideDelta": [
+    1461797,
+    -4179796,
+    -11358369
+   ]
+  },
+  {
+   "id": "D14",
+   "name": "7 Av",
+   "routes": "E B D",
+   "users": 29976,
+   "through": 244479,
+   "walkLine": 185,
+   "walkAny": 96,
+   "walkStation": 320,
+   "ada": "no",
+   "rideDelta": [
+    3245709,
+    -4188057,
+    -13967212
+   ]
+  },
+  {
+   "id": "R08",
+   "name": "39 Av-Dutch Kills",
+   "routes": "N W",
+   "users": 6028,
+   "through": 77079,
+   "walkLine": 173,
+   "walkAny": 124,
+   "walkStation": 492,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2377445,
+    -5460593
+   ]
+  },
+  {
+   "id": "617",
+   "name": "Cypress Av",
+   "routes": "6",
+   "users": 4312,
+   "through": 53945,
+   "walkLine": 274,
+   "walkAny": 274,
+   "walkStation": 559,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1666954,
+    -3824742
+   ]
+  },
+  {
+   "id": "618",
+   "name": "Brook Av",
+   "routes": "6",
+   "users": 6990,
+   "through": 56304,
+   "walkLine": 246,
+   "walkAny": 236,
+   "walkStation": 536,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1747745,
+    -3999904
+   ]
+  },
+  {
+   "id": "216",
+   "name": "Freeman St",
+   "routes": "2 5",
+   "users": 5846,
+   "through": 62232,
+   "walkLine": 302,
+   "walkAny": 285,
+   "walkStation": 696,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2415878,
+    -4905143
+   ]
+  },
+  {
+   "id": "614",
+   "name": "Longwood Av",
+   "routes": "6",
+   "users": 4384,
+   "through": 46060,
+   "walkLine": 285,
+   "walkAny": 245,
+   "walkStation": 664,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1401754,
+    -3244167
+   ]
+  },
+  {
+   "id": "241",
+   "name": "President St-Medgar Evers College",
+   "routes": "2 5",
+   "users": 5261,
+   "through": 63990,
+   "walkLine": 252,
+   "walkAny": 132,
+   "walkStation": 558,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2176535,
+    -4736139
+   ]
+  },
+  {
+   "id": "234",
+   "name": "Nevins St",
+   "routes": "2 3 4 5",
+   "users": 14790,
+   "through": 162264,
+   "walkLine": 217,
+   "walkAny": 115,
+   "walkStation": 407,
+   "ada": "no",
+   "rideDelta": [
+    2485804,
+    -2626630,
+    -9117184
+   ]
+  },
+  {
+   "id": "612",
+   "name": "Whitlock Av",
+   "routes": "6",
+   "users": 2317,
+   "through": 36993,
+   "walkLine": 389,
+   "walkAny": 166,
+   "walkStation": 620,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1323849,
+    -2803588
+   ]
+  },
+  {
+   "id": "220",
+   "name": "Jackson Av",
+   "routes": "2 5",
+   "users": 7557,
+   "through": 79645,
+   "walkLine": 333,
+   "walkAny": 257,
+   "walkStation": 633,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2960942,
+    -6146762
+   ]
+  },
+  {
+   "id": "G24",
+   "name": "21 St",
+   "routes": "G",
+   "users": 3172,
+   "through": 59315,
+   "walkLine": 283,
+   "walkAny": 164,
+   "walkStation": 329,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1778038,
+    -4150648
+   ]
+  },
+  {
+   "id": "L11",
+   "name": "Graham Av",
+   "routes": "L",
+   "users": 15009,
+   "through": 118548,
+   "walkLine": 221,
+   "walkAny": 210,
+   "walkStation": 425,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4138224,
+    -8880124
+   ]
+  },
+  {
+   "id": "411",
+   "name": "Mt Eden Av",
+   "routes": "4",
+   "users": 5916,
+   "through": 57705,
+   "walkLine": 226,
+   "walkAny": 156,
+   "walkStation": 485,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1822240,
+    -4130427
+   ]
+  },
+  {
+   "id": "720",
+   "name": "Hunters Point Av",
+   "routes": "7",
+   "users": 6908,
+   "through": 128393,
+   "walkLine": 249,
+   "walkAny": 203,
+   "walkStation": 413,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3763698,
+    -8899435
+   ]
+  },
+  {
+   "id": "G31",
+   "name": "Flushing Av",
+   "routes": "G",
+   "users": 5111,
+   "through": 53734,
+   "walkLine": 252,
+   "walkAny": 245,
+   "walkStation": 502,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1623436,
+    -3772814
+   ]
+  },
+  {
+   "id": "214",
+   "name": "West Farms Sq-E Tremont Av",
+   "routes": "2 5",
+   "users": 7816,
+   "through": 52289,
+   "walkLine": 234,
+   "walkAny": 234,
+   "walkStation": 676,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2092221,
+    -4183798
+   ]
+  },
+  {
+   "id": "615",
+   "name": "E 149 St",
+   "routes": "6",
+   "users": 6094,
+   "through": 47977,
+   "walkLine": 330,
+   "walkAny": 278,
+   "walkStation": 554,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1471276,
+    -3390373
+   ]
+  },
+  {
+   "id": "419",
+   "name": "Wall St",
+   "routes": "4 5",
+   "users": 25660,
+   "through": 119282,
+   "walkLine": 121,
+   "walkAny": 43,
+   "walkStation": 282,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3639380,
+    -8410652
+   ]
+  },
+  {
+   "id": "M14",
+   "name": "Hewes St",
+   "routes": "M J",
+   "users": 4081,
+   "through": 55009,
+   "walkLine": 269,
+   "walkAny": 121,
+   "walkStation": 374,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1728675,
+    -3929024
+   ]
+  },
+  {
+   "id": "410",
+   "name": "176 St",
+   "routes": "4",
+   "users": 7377,
+   "through": 52825,
+   "walkLine": 223,
+   "walkAny": 203,
+   "walkStation": 514,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1667302,
+    -3780306
+   ]
+  },
+  {
+   "id": "B14",
+   "name": "50 St",
+   "routes": "D",
+   "users": 5220,
+   "through": 42788,
+   "walkLine": 139,
+   "walkAny": 134,
+   "walkStation": 428,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1330028,
+    -3041535
+   ]
+  },
+  {
+   "id": "J24",
+   "name": "Alabama Av",
+   "routes": "J Z",
+   "users": 3136,
+   "through": 37517,
+   "walkLine": 285,
+   "walkAny": 200,
+   "walkStation": 428,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1191574,
+    -2692259
+   ]
+  },
+  {
+   "id": "A60",
+   "name": "88 St",
+   "routes": "A",
+   "users": 3982,
+   "through": 43178,
+   "walkLine": 220,
+   "walkAny": 216,
+   "walkStation": 446,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1312995,
+    -3040108
+   ]
+  },
+  {
+   "id": "412",
+   "name": "170 St",
+   "routes": "4",
+   "users": 9500,
+   "through": 60639,
+   "walkLine": 216,
+   "walkAny": 183,
+   "walkStation": 537,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1930119,
+    -4355694
+   ]
+  },
+  {
+   "id": "D08",
+   "name": "174-175 Sts",
+   "routes": "B D",
+   "users": 5929,
+   "through": 34843,
+   "walkLine": 228,
+   "walkAny": 158,
+   "walkStation": 614,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1094946,
+    -2488656
+   ]
+  },
+  {
+   "id": "B15",
+   "name": "55 St",
+   "routes": "D",
+   "users": 2919,
+   "through": 43145,
+   "walkLine": 302,
+   "walkAny": 295,
+   "walkStation": 489,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1327074,
+    -3052870
+   ]
+  },
+  {
+   "id": "B13",
+   "name": "Fort Hamilton Pkwy",
+   "routes": "D",
+   "users": 6724,
+   "through": 43629,
+   "walkLine": 170,
+   "walkAny": 163,
+   "walkStation": 490,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1373849,
+    -3119027
+   ]
+  },
+  {
+   "id": "F07",
+   "name": "75 Av",
+   "routes": "E F",
+   "users": 5168,
+   "through": 82034,
+   "walkLine": 233,
+   "walkAny": 233,
+   "walkStation": 546,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2631205,
+    -5912554
+   ]
+  },
+  {
+   "id": "L21",
+   "name": "Bushwick Av-Aberdeen St",
+   "routes": "L",
+   "users": 3753,
+   "through": 46046,
+   "walkLine": 322,
+   "walkAny": 228,
+   "walkStation": 596,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1653211,
+    -3495070
+   ]
+  },
+  {
+   "id": "J23",
+   "name": "Van Siclen Av",
+   "routes": "J Z",
+   "users": 4272,
+   "through": 33474,
+   "walkLine": 291,
+   "walkAny": 262,
+   "walkStation": 564,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1062837,
+    -2401782
+   ]
+  },
+  {
+   "id": "217",
+   "name": "Simpson St",
+   "routes": "2 5",
+   "users": 9717,
+   "through": 65307,
+   "walkLine": 266,
+   "walkAny": 136,
+   "walkStation": 378,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -2501176,
+    -5113441
+   ]
+  },
+  {
+   "id": "R06",
+   "name": "36 Av",
+   "routes": "N W",
+   "users": 10417,
+   "through": 68822,
+   "walkLine": 226,
+   "walkAny": 198,
+   "walkStation": 497,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2112846,
+    -4865720
+   ]
+  },
+  {
+   "id": "212",
+   "name": "Bronx Park East",
+   "routes": "2 5",
+   "users": 3092,
+   "through": 36475,
+   "walkLine": 320,
+   "walkAny": 320,
+   "walkStation": 833,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1319846,
+    -2778829
+   ]
+  },
+  {
+   "id": "610",
+   "name": "Morrison Av-Soundview",
+   "routes": "6",
+   "users": 8286,
+   "through": 24483,
+   "walkLine": 199,
+   "walkAny": 199,
+   "walkStation": 381,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -893491,
+    -1872831
+   ]
+  },
+  {
+   "id": "609",
+   "name": "St Lawrence Av",
+   "routes": "6",
+   "users": 5365,
+   "through": 21906,
+   "walkLine": 256,
+   "walkAny": 252,
+   "walkStation": 572,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -792787,
+    -1669011
+   ]
+  },
+  {
+   "id": "227",
+   "name": "110 St-Malcolm X Plaza",
+   "routes": "2 3",
+   "users": 11045,
+   "through": 80804,
+   "walkLine": 233,
+   "walkAny": 178,
+   "walkStation": 436,
+   "ada": "no",
+   "rideDelta": [
+    162,
+    -2582960,
+    -5815112
+   ]
+  },
+  {
+   "id": "J21",
+   "name": "Norwood Av",
+   "routes": "J Z",
+   "users": 4010,
+   "through": 30371,
+   "walkLine": 304,
+   "walkAny": 285,
+   "walkStation": 584,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -960004,
+    -2174850
+   ]
+  },
+  {
+   "id": "F22",
+   "name": "Smith-9 Sts",
+   "routes": "F G",
+   "users": 7180,
+   "through": 72619,
+   "walkLine": 352,
+   "walkAny": 352,
+   "walkStation": 571,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2272906,
+    -5177662
+   ]
+  },
+  {
+   "id": "G15",
+   "name": "65 St",
+   "routes": "M R",
+   "users": 5627,
+   "through": 63422,
+   "walkLine": 216,
+   "walkAny": 150,
+   "walkStation": 494,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2195608,
+    -4732504
+   ]
+  },
+  {
+   "id": "G21",
+   "name": "Queens Plaza",
+   "routes": "E F R",
+   "users": 29187,
+   "through": 299035,
+   "walkLine": 335,
+   "walkAny": 126,
+   "walkStation": 550,
+   "ada": "yes",
+   "rideDelta": [
+    1594200,
+    -8622669,
+    -20584050
+   ]
+  },
+  {
+   "id": "M13",
+   "name": "Lorimer St",
+   "routes": "M J",
+   "users": 6748,
+   "through": 51898,
+   "walkLine": 242,
+   "walkAny": 170,
+   "walkStation": 472,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1619504,
+    -3695406
+   ]
+  },
+  {
+   "id": "A57",
+   "name": "Grant Av",
+   "routes": "A",
+   "users": 7235,
+   "through": 51102,
+   "walkLine": 260,
+   "walkAny": 255,
+   "walkStation": 583,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1561652,
+    -3605746
+   ]
+  },
+  {
+   "id": "R24",
+   "name": "City Hall",
+   "routes": "R W",
+   "users": 8431,
+   "through": 34576,
+   "walkLine": 80,
+   "walkAny": 52,
+   "walkStation": 130,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -947302,
+    -2330332
+   ]
+  },
+  {
+   "id": "G34",
+   "name": "Classon Av",
+   "routes": "G",
+   "users": 8490,
+   "through": 47978,
+   "walkLine": 223,
+   "walkAny": 205,
+   "walkStation": 443,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1395628,
+    -3314752
+   ]
+  },
+  {
+   "id": "J17",
+   "name": "75 St-Elderts Ln",
+   "routes": "J Z",
+   "users": 4561,
+   "through": 26078,
+   "walkLine": 239,
+   "walkAny": 238,
+   "walkStation": 481,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -812604,
+    -1855729
+   ]
+  },
+  {
+   "id": "J14",
+   "name": "104 St",
+   "routes": "J Z",
+   "users": 3958,
+   "through": 24216,
+   "walkLine": 325,
+   "walkAny": 309,
+   "walkStation": 590,
+   "ada": "no",
+   "rideDelta": [
+    137,
+    -787549,
+    -1756206
+   ]
+  },
+  {
+   "id": "408",
+   "name": "183 St",
+   "routes": "4",
+   "users": 6874,
+   "through": 40779,
+   "walkLine": 257,
+   "walkAny": 206,
+   "walkStation": 517,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1300262,
+    -2931423
+   ]
+  },
+  {
+   "id": "L24",
+   "name": "Atlantic Av",
+   "routes": "L",
+   "users": 3747,
+   "through": 31158,
+   "walkLine": 333,
+   "walkAny": 265,
+   "walkStation": 461,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -984921,
+    -2231228
+   ]
+  },
+  {
+   "id": "611",
+   "name": "Elder Av",
+   "routes": "6",
+   "users": 8316,
+   "through": 30244,
+   "walkLine": 244,
+   "walkAny": 244,
+   "walkStation": 389,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1080091,
+    -2289861
+   ]
+  },
+  {
+   "id": "H02",
+   "name": "Aqueduct-N Conduit Av",
+   "routes": "A",
+   "users": 1277,
+   "through": 22193,
+   "walkLine": 352,
+   "walkAny": 352,
+   "walkStation": 426,
+   "ada": "no",
+   "rideDelta": [
+    92176,
+    -569102,
+    -1456812
+   ]
+  },
+  {
+   "id": "G32",
+   "name": "Myrtle-Willoughby Avs",
+   "routes": "G",
+   "users": 7490,
+   "through": 51508,
+   "walkLine": 271,
+   "walkAny": 232,
+   "walkStation": 486,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1542790,
+    -3603099
+   ]
+  },
+  {
+   "id": "D06",
+   "name": "182-183 Sts",
+   "routes": "B D",
+   "users": 6026,
+   "through": 24006,
+   "walkLine": 253,
+   "walkAny": 189,
+   "walkStation": 631,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -767228,
+    -1727465
+   ]
+  },
+  {
+   "id": "B12",
+   "name": "9 Av",
+   "routes": "D",
+   "users": 8572,
+   "through": 46722,
+   "walkLine": 225,
+   "walkAny": 217,
+   "walkStation": 572,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1482941,
+    -3351811
+   ]
+  },
+  {
+   "id": "R43",
+   "name": "77 St",
+   "routes": "R",
+   "users": 8529,
+   "through": 21542,
+   "walkLine": 88,
+   "walkAny": 88,
+   "walkStation": 92,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -629049,
+    -1490718
+   ]
+  },
+  {
+   "id": "F31",
+   "name": "Avenue I",
+   "routes": "F",
+   "users": 2295,
+   "through": 18665,
+   "walkLine": 168,
+   "walkAny": 158,
+   "walkStation": 318,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -593186,
+    -1339771
+   ]
+  },
+  {
+   "id": "F32",
+   "name": "Bay Pkwy",
+   "routes": "F",
+   "users": 1631,
+   "through": 18038,
+   "walkLine": 195,
+   "walkAny": 195,
+   "walkStation": 379,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -571532,
+    -1293037
+   ]
+  },
+  {
+   "id": "711",
+   "name": "69 St",
+   "routes": "7",
+   "users": 3923,
+   "through": 47557,
+   "walkLine": 194,
+   "walkAny": 178,
+   "walkStation": 398,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1395355,
+    -3297645
+   ]
+  },
+  {
+   "id": "F04",
+   "name": "Sutphin Blvd",
+   "routes": "F",
+   "users": 6041,
+   "through": 46487,
+   "walkLine": 331,
+   "walkAny": 254,
+   "walkStation": 548,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1261794,
+    -3121274
+   ]
+  },
+  {
+   "id": "L13",
+   "name": "Montrose Av",
+   "routes": "L",
+   "users": 10841,
+   "through": 106595,
+   "walkLine": 327,
+   "walkAny": 243,
+   "walkStation": 484,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3716212,
+    -7980029
+   ]
+  },
+  {
+   "id": "107",
+   "name": "215 St",
+   "routes": "1",
+   "users": 3379,
+   "through": 33540,
+   "walkLine": 421,
+   "walkAny": 173,
+   "walkStation": 619,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -980017,
+    -2321607
+   ]
+  },
+  {
+   "id": "242",
+   "name": "Sterling St",
+   "routes": "2 5",
+   "users": 8302,
+   "through": 58148,
+   "walkLine": 299,
+   "walkAny": 248,
+   "walkStation": 559,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1960108,
+    -4286019
+   ]
+  },
+  {
+   "id": "G30",
+   "name": "Broadway",
+   "routes": "G",
+   "users": 7179,
+   "through": 54609,
+   "walkLine": 289,
+   "walkAny": 84,
+   "walkStation": 633,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1654193,
+    -3838547
+   ]
+  },
+  {
+   "id": "209",
+   "name": "Burke Av",
+   "routes": "2 5",
+   "users": 3258,
+   "through": 24557,
+   "walkLine": 305,
+   "walkAny": 305,
+   "walkStation": 652,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -888022,
+    -1870300
+   ]
+  },
+  {
+   "id": "J12",
+   "name": "121 St",
+   "routes": "J Z",
+   "users": 3317,
+   "through": 24147,
+   "walkLine": 520,
+   "walkAny": 334,
+   "walkStation": 882,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -806744,
+    -1772628
+   ]
+  },
+  {
+   "id": "J28",
+   "name": "Chauncey St",
+   "routes": "J Z",
+   "users": 4090,
+   "through": 25812,
+   "walkLine": 261,
+   "walkAny": 140,
+   "walkStation": 473,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -768413,
+    -1800910
+   ]
+  },
+  {
+   "id": "L26",
+   "name": "Livonia Av",
+   "routes": "L",
+   "users": 4308,
+   "through": 24957,
+   "walkLine": 178,
+   "walkAny": 100,
+   "walkStation": 547,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -766456,
+    -1764751
+   ]
+  },
+  {
+   "id": "L25",
+   "name": "Sutter Av",
+   "routes": "L",
+   "users": 4102,
+   "through": 28222,
+   "walkLine": 323,
+   "walkAny": 215,
+   "walkStation": 531,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -887806,
+    -2016698
+   ]
+  },
+  {
+   "id": "606",
+   "name": "Zerega Av",
+   "routes": "6",
+   "users": 3159,
+   "through": 20929,
+   "walkLine": 193,
+   "walkAny": 193,
+   "walkStation": 487,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -733693,
+    -1570864
+   ]
+  },
+  {
+   "id": "D42",
+   "name": "W 8 St-NY Aquarium",
+   "routes": "F Q",
+   "users": 4038,
+   "through": 21952,
+   "walkLine": 154,
+   "walkAny": 154,
+   "walkStation": 412,
+   "ada": "no",
+   "rideDelta": [
+    402157,
+    -235004,
+    -1113103
+   ]
+  },
+  {
+   "id": "H01",
+   "name": "Aqueduct Racetrack",
+   "routes": "A",
+   "users": 1120,
+   "through": 9943,
+   "walkLine": 128,
+   "walkAny": 128,
+   "walkStation": 326,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -391930,
+    -789649
+   ]
+  },
+  {
+   "id": "S03",
+   "name": "Park Pl",
+   "routes": "S",
+   "users": 2605,
+   "through": 9241,
+   "walkLine": 295,
+   "walkAny": 213,
+   "walkStation": 538,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -263139,
+    -632777
+   ]
+  },
+  {
+   "id": "D09",
+   "name": "170 St",
+   "routes": "B D",
+   "users": 8883,
+   "through": 37254,
+   "walkLine": 282,
+   "walkAny": 209,
+   "walkStation": 570,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1197527,
+    -2687699
+   ]
+  },
+  {
+   "id": "D41",
+   "name": "Ocean Pkwy",
+   "routes": "Q",
+   "users": 4074,
+   "through": 18306,
+   "walkLine": 258,
+   "walkAny": 243,
+   "walkStation": 498,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -531475,
+    -1263710
+   ]
+  },
+  {
+   "id": "713",
+   "name": "52 St",
+   "routes": "7",
+   "users": 5949,
+   "through": 50888,
+   "walkLine": 246,
+   "walkAny": 238,
+   "walkStation": 522,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1485413,
+    -3520928
+   ]
+  },
+  {
+   "id": "N06",
+   "name": "20 Av",
+   "routes": "N",
+   "users": 6353,
+   "through": 29095,
+   "walkLine": 274,
+   "walkAny": 227,
+   "walkStation": 551,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -929550,
+    -2093352
+   ]
+  },
+  {
+   "id": "R26",
+   "name": "Rector St",
+   "routes": "R W",
+   "users": 8565,
+   "through": 31826,
+   "walkLine": 174,
+   "walkAny": 58,
+   "walkStation": 297,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -875589,
+    -2148614
+   ]
+  },
+  {
+   "id": "D12",
+   "name": "155 St",
+   "routes": "B D",
+   "users": 3847,
+   "through": 63675,
+   "walkLine": 807,
+   "walkAny": 554,
+   "walkStation": 1141,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2255722,
+    -4802704
+   ]
+  },
+  {
+   "id": "L20",
+   "name": "Wilson Av",
+   "routes": "L",
+   "users": 7162,
+   "through": 47095,
+   "walkLine": 312,
+   "walkAny": 267,
+   "walkStation": 994,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -1683262,
+    -3567068
+   ]
+  },
+  {
+   "id": "131",
+   "name": "18 St",
+   "routes": "1",
+   "users": 12289,
+   "through": 80505,
+   "walkLine": 157,
+   "walkAny": 157,
+   "walkStation": 304,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2304343,
+    -5524548
+   ]
+  },
+  {
+   "id": "603",
+   "name": "Middletown Rd",
+   "routes": "6",
+   "users": 2722,
+   "through": 12863,
+   "walkLine": 172,
+   "walkAny": 172,
+   "walkStation": 480,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -439348,
+    -953853
+   ]
+  },
+  {
+   "id": "D29",
+   "name": "Beverley Rd",
+   "routes": "Q",
+   "users": 5417,
+   "through": 45548,
+   "walkLine": 187,
+   "walkAny": 172,
+   "walkStation": 387,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1372437,
+    -3194374
+   ]
+  },
+  {
+   "id": "F30",
+   "name": "18 Av",
+   "routes": "F",
+   "users": 5083,
+   "through": 18995,
+   "walkLine": 206,
+   "walkAny": 194,
+   "walkStation": 386,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -609158,
+    -1368962
+   ]
+  },
+  {
+   "id": "210",
+   "name": "Allerton Av",
+   "routes": "2 5",
+   "users": 5357,
+   "through": 26788,
+   "walkLine": 326,
+   "walkAny": 326,
+   "walkStation": 651,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -973851,
+    -2045364
+   ]
+  },
+  {
+   "id": "J20",
+   "name": "Crescent St",
+   "routes": "J Z",
+   "users": 5740,
+   "through": 29913,
+   "walkLine": 363,
+   "walkAny": 290,
+   "walkStation": 586,
+   "ada": "no",
+   "rideDelta": [
+    1270,
+    -929985,
+    -2126509
+   ]
+  },
+  {
+   "id": "H08",
+   "name": "Beach 44 St",
+   "routes": "A",
+   "users": 923,
+   "through": 8867,
+   "walkLine": 317,
+   "walkAny": 317,
+   "walkStation": 727,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -301698,
+    -656364
+   ]
+  },
+  {
+   "id": "F29",
+   "name": "Ditmas Av",
+   "routes": "F",
+   "users": 5642,
+   "through": 21250,
+   "walkLine": 242,
+   "walkAny": 220,
+   "walkStation": 592,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -687965,
+    -1537976
+   ]
+  },
+  {
+   "id": "H09",
+   "name": "Beach 36 St",
+   "routes": "A",
+   "users": 1186,
+   "through": 7750,
+   "walkLine": 165,
+   "walkAny": 165,
+   "walkStation": 699,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -267906,
+    -577905
+   ]
+  },
+  {
+   "id": "236",
+   "name": "Bergen St",
+   "routes": "2 3",
+   "users": 7053,
+   "through": 65935,
+   "walkLine": 282,
+   "walkAny": 180,
+   "walkStation": 354,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1931533,
+    -4568940
+   ]
+  },
+  {
+   "id": "207",
+   "name": "219 St",
+   "routes": "2 5",
+   "users": 3593,
+   "through": 16347,
+   "walkLine": 273,
+   "walkAny": 273,
+   "walkStation": 486,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -583102,
+    -1236973
+   ]
+  },
+  {
+   "id": "B18",
+   "name": "79 St",
+   "routes": "D",
+   "users": 9117,
+   "through": 30424,
+   "walkLine": 220,
+   "walkAny": 220,
+   "walkStation": 566,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -995454,
+    -2212401
+   ]
+  },
+  {
+   "id": "A59",
+   "name": "80 St",
+   "routes": "A",
+   "users": 5965,
+   "through": 46392,
+   "walkLine": 376,
+   "walkAny": 355,
+   "walkStation": 683,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1408063,
+    -3263730
+   ]
+  },
+  {
+   "id": "A63",
+   "name": "104 St",
+   "routes": "A",
+   "users": 2485,
+   "through": 10500,
+   "walkLine": 216,
+   "walkAny": 209,
+   "walkStation": 374,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -324716,
+    -744707
+   ]
+  },
+  {
+   "id": "B17",
+   "name": "71 St",
+   "routes": "D",
+   "users": 7170,
+   "through": 36417,
+   "walkLine": 322,
+   "walkAny": 263,
+   "walkStation": 557,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1200278,
+    -2656954
+   ]
+  },
+  {
+   "id": "215",
+   "name": "174 St",
+   "routes": "2 5",
+   "users": 8744,
+   "through": 56260,
+   "walkLine": 388,
+   "walkAny": 382,
+   "walkStation": 769,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2216398,
+    -4466807
+   ]
+  },
+  {
+   "id": "D27",
+   "name": "Parkside Av",
+   "routes": "Q",
+   "users": 8857,
+   "through": 57217,
+   "walkLine": 194,
+   "walkAny": 191,
+   "walkStation": 433,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1755799,
+    -4044479
+   ]
+  },
+  {
+   "id": "A61",
+   "name": "Rockaway Blvd",
+   "routes": "A",
+   "users": 9636,
+   "through": 35105,
+   "walkLine": 241,
+   "walkAny": 214,
+   "walkStation": 388,
+   "ada": "yes",
+   "rideDelta": [
+    51942,
+    -1014265,
+    -2418468
+   ]
+  },
+  {
+   "id": "M06",
+   "name": "Seneca Av",
+   "routes": "M",
+   "users": 4652,
+   "through": 17995,
+   "walkLine": 297,
+   "walkAny": 259,
+   "walkStation": 468,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -826232,
+    -1546032
+   ]
+  },
+  {
+   "id": "245",
+   "name": "Beverly Rd",
+   "routes": "2 5",
+   "users": 6989,
+   "through": 31503,
+   "walkLine": 300,
+   "walkAny": 274,
+   "walkStation": 511,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1050890,
+    -2311001
+   ]
+  },
+  {
+   "id": "505",
+   "name": "Morris Park",
+   "routes": "5",
+   "users": 3832,
+   "through": 17408,
+   "walkLine": 339,
+   "walkAny": 335,
+   "walkStation": 687,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -579124,
+    -1275433
+   ]
+  },
+  {
+   "id": "206",
+   "name": "225 St",
+   "routes": "2 5",
+   "users": 3752,
+   "through": 13157,
+   "walkLine": 258,
+   "walkAny": 258,
+   "walkStation": 492,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -468732,
+    -995000
+   ]
+  },
+  {
+   "id": "253",
+   "name": "Rockaway Av",
+   "routes": "3",
+   "users": 5956,
+   "through": 15233,
+   "walkLine": 221,
+   "walkAny": 157,
+   "walkStation": 510,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -816942,
+    -1426254
+   ]
+  },
+  {
+   "id": "H10",
+   "name": "Beach 25 St",
+   "routes": "A",
+   "users": 1985,
+   "through": 6103,
+   "walkLine": 232,
+   "walkAny": 232,
+   "walkStation": 706,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -212619,
+    -456756
+   ]
+  },
+  {
+   "id": "L15",
+   "name": "Jefferson St",
+   "routes": "L",
+   "users": 14572,
+   "through": 89800,
+   "walkLine": 250,
+   "walkAny": 247,
+   "walkStation": 364,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3159820,
+    -6751826
+   ]
+  },
+  {
+   "id": "G07",
+   "name": "Jamaica-Van Wyck",
+   "routes": "E",
+   "users": 7223,
+   "through": 64750,
+   "walkLine": 466,
+   "walkAny": 402,
+   "walkStation": 779,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -2083239,
+    -4673235
+   ]
+  },
+  {
+   "id": "226",
+   "name": "116 St",
+   "routes": "2 3",
+   "users": 13120,
+   "through": 75010,
+   "walkLine": 260,
+   "walkAny": 175,
+   "walkStation": 412,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2389107,
+    -5389492
+   ]
+  },
+  {
+   "id": "R35",
+   "name": "25 St",
+   "routes": "R",
+   "users": 5872,
+   "through": 55829,
+   "walkLine": 225,
+   "walkAny": 225,
+   "walkStation": 680,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1774714,
+    -4007856
+   ]
+  },
+  {
+   "id": "G16",
+   "name": "Northern Blvd",
+   "routes": "M R",
+   "users": 9776,
+   "through": 62828,
+   "walkLine": 259,
+   "walkAny": 230,
+   "walkStation": 551,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -2164307,
+    -4677416
+   ]
+  },
+  {
+   "id": "504",
+   "name": "Pelham Pkwy",
+   "routes": "5",
+   "users": 4369,
+   "through": 13828,
+   "walkLine": 275,
+   "walkAny": 275,
+   "walkStation": 691,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -452096,
+    -1005232
+   ]
+  },
+  {
+   "id": "B19",
+   "name": "18 Av",
+   "routes": "D",
+   "users": 8789,
+   "through": 24449,
+   "walkLine": 228,
+   "walkAny": 228,
+   "walkStation": 469,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -792686,
+    -1770665
+   ]
+  },
+  {
+   "id": "A18",
+   "name": "103 St",
+   "routes": "C B",
+   "users": 6917,
+   "through": 32637,
+   "walkLine": 259,
+   "walkAny": 234,
+   "walkStation": 490,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -970411,
+    -2275900
+   ]
+  },
+  {
+   "id": "A11",
+   "name": "155 St",
+   "routes": "C",
+   "users": 3528,
+   "through": 13347,
+   "walkLine": 174,
+   "walkAny": 169,
+   "walkStation": 511,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -458923,
+    -992788
+   ]
+  },
+  {
+   "id": "135",
+   "name": "Canal St",
+   "routes": "1",
+   "users": 9008,
+   "through": 68175,
+   "walkLine": 273,
+   "walkAny": 130,
+   "walkStation": 352,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2136972,
+    -4863981
+   ]
+  },
+  {
+   "id": "A64",
+   "name": "111 St",
+   "routes": "A",
+   "users": 2883,
+   "through": 7955,
+   "walkLine": 236,
+   "walkAny": 236,
+   "walkStation": 373,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -245294,
+    -563491
+   ]
+  },
+  {
+   "id": "136",
+   "name": "Franklin St",
+   "routes": "1",
+   "users": 9803,
+   "through": 61527,
+   "walkLine": 220,
+   "walkAny": 112,
+   "walkStation": 390,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1968752,
+    -4429834
+   ]
+  },
+  {
+   "id": "F05",
+   "name": "Briarwood",
+   "routes": "E F",
+   "users": 7545,
+   "through": 69201,
+   "walkLine": 366,
+   "walkAny": 366,
+   "walkStation": 911,
+   "ada": "no",
+   "rideDelta": [
+    18612,
+    -1942228,
+    -4710249
+   ]
+  },
+  {
+   "id": "L14",
+   "name": "Morgan Av",
+   "routes": "L",
+   "users": 12378,
+   "through": 98771,
+   "walkLine": 342,
+   "walkAny": 309,
+   "walkStation": 807,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3448450,
+    -7399276
+   ]
+  },
+  {
+   "id": "248",
+   "name": "Nostrand Av",
+   "routes": "3",
+   "users": 5104,
+   "through": 34906,
+   "walkLine": 305,
+   "walkAny": 140,
+   "walkStation": 622,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1097195,
+    -2493444
+   ]
+  },
+  {
+   "id": "F33",
+   "name": "Avenue N",
+   "routes": "F",
+   "users": 3968,
+   "through": 15370,
+   "walkLine": 334,
+   "walkAny": 312,
+   "walkStation": 570,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -481549,
+    -1096362
+   ]
+  },
+  {
+   "id": "B20",
+   "name": "20 Av",
+   "routes": "D",
+   "users": 7503,
+   "through": 19251,
+   "walkLine": 212,
+   "walkAny": 210,
+   "walkStation": 449,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -612778,
+    -1382831
+   ]
+  },
+  {
+   "id": "256",
+   "name": "Van Siclen Av",
+   "routes": "3",
+   "users": 3363,
+   "through": 5901,
+   "walkLine": 205,
+   "walkAny": 195,
+   "walkStation": 464,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -290416,
+    -526456
+   ]
+  },
+  {
+   "id": "J15",
+   "name": "Woodhaven Blvd",
+   "routes": "J Z",
+   "users": 6986,
+   "through": 25249,
+   "walkLine": 380,
+   "walkAny": 363,
+   "walkStation": 595,
+   "ada": "yes",
+   "rideDelta": [
+    2515,
+    -792235,
+    -1802188
+   ]
+  },
+  {
+   "id": "252",
+   "name": "Saratoga Av",
+   "routes": "3",
+   "users": 6958,
+   "through": 18672,
+   "walkLine": 296,
+   "walkAny": 296,
+   "walkStation": 573,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1086433,
+    -1833322
+   ]
+  },
+  {
+   "id": "J30",
+   "name": "Gates Av",
+   "routes": "J Z",
+   "users": 9409,
+   "through": 26017,
+   "walkLine": 245,
+   "walkAny": 238,
+   "walkStation": 514,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -798454,
+    -1839122
+   ]
+  },
+  {
+   "id": "H14",
+   "name": "Beach 105 St",
+   "routes": "A S",
+   "users": 448,
+   "through": 591,
+   "walkLine": 329,
+   "walkAny": 329,
+   "walkStation": 651,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -17868,
+    -41525
+   ]
+  },
+  {
+   "id": "D32",
+   "name": "Avenue H",
+   "routes": "Q",
+   "users": 4586,
+   "through": 34903,
+   "walkLine": 268,
+   "walkAny": 252,
+   "walkStation": 621,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1055626,
+    -2451746
+   ]
+  },
+  {
+   "id": "413",
+   "name": "167 St",
+   "routes": "4",
+   "users": 11450,
+   "through": 66182,
+   "walkLine": 345,
+   "walkAny": 190,
+   "walkStation": 585,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2122780,
+    -4770055
+   ]
+  },
+  {
+   "id": "F34",
+   "name": "Avenue P",
+   "routes": "F",
+   "users": 3830,
+   "through": 13212,
+   "walkLine": 319,
+   "walkAny": 276,
+   "walkStation": 528,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -407296,
+    -935775
+   ]
+  },
+  {
+   "id": "H13",
+   "name": "Beach 98 St",
+   "routes": "A S",
+   "users": 657,
+   "through": 824,
+   "walkLine": 364,
+   "walkAny": 364,
+   "walkStation": 606,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -24788,
+    -57757
+   ]
+  },
+  {
+   "id": "409",
+   "name": "Burnside Av",
+   "routes": "4",
+   "users": 9829,
+   "through": 45483,
+   "walkLine": 291,
+   "walkAny": 206,
+   "walkStation": 618,
+   "ada": "no",
+   "rideDelta": [
+    3831,
+    -1439869,
+    -3259190
+   ]
+  },
+  {
+   "id": "254",
+   "name": "Junius St",
+   "routes": "3",
+   "users": 3700,
+   "through": 12501,
+   "walkLine": 379,
+   "walkAny": 171,
+   "walkStation": 520,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -667254,
+    -1167285
+   ]
+  },
+  {
+   "id": "F39",
+   "name": "Neptune Av",
+   "routes": "F",
+   "users": 2281,
+   "through": 6336,
+   "walkLine": 308,
+   "walkAny": 280,
+   "walkStation": 511,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -171115,
+    -424535
+   ]
+  },
+  {
+   "id": "109",
+   "name": "Dyckman St",
+   "routes": "1",
+   "users": 9417,
+   "through": 41701,
+   "walkLine": 326,
+   "walkAny": 158,
+   "walkStation": 652,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1233700,
+    -2901758
+   ]
+  },
+  {
+   "id": "G35",
+   "name": "Clinton-Washington Avs",
+   "routes": "G",
+   "users": 9183,
+   "through": 47475,
+   "walkLine": 338,
+   "walkAny": 312,
+   "walkStation": 546,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1371215,
+    -3270223
+   ]
+  },
+  {
+   "id": "D10",
+   "name": "167 St",
+   "routes": "B D",
+   "users": 10922,
+   "through": 42716,
+   "walkLine": 330,
+   "walkAny": 253,
+   "walkStation": 624,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1434071,
+    -3142728
+   ]
+  },
+  {
+   "id": "A42",
+   "name": "Hoyt-Schermerhorn Sts",
+   "routes": "A C G",
+   "users": 19346,
+   "through": 192634,
+   "walkLine": 325,
+   "walkAny": 157,
+   "walkStation": 458,
+   "ada": "no",
+   "rideDelta": [
+    7164334,
+    1605514,
+    -6099845
+   ]
+  },
+  {
+   "id": "607",
+   "name": "Castle Hill Av",
+   "routes": "6",
+   "users": 7534,
+   "through": 23343,
+   "walkLine": 262,
+   "walkAny": 262,
+   "walkStation": 536,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -827490,
+    -1761206
+   ]
+  },
+  {
+   "id": "233",
+   "name": "Hoyt St",
+   "routes": "2 3",
+   "users": 10802,
+   "through": 71896,
+   "walkLine": 303,
+   "walkAny": 22,
+   "walkStation": 453,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -2219246,
+    -5095081
+   ]
+  },
+  {
+   "id": "F36",
+   "name": "Avenue U",
+   "routes": "F",
+   "users": 2929,
+   "through": 9447,
+   "walkLine": 345,
+   "walkAny": 274,
+   "walkStation": 561,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -279298,
+    -657171
+   ]
+  },
+  {
+   "id": "G20",
+   "name": "36 St",
+   "routes": "M R",
+   "users": 6503,
+   "through": 78782,
+   "walkLine": 530,
+   "walkAny": 261,
+   "walkStation": 713,
+   "ada": "no",
+   "rideDelta": [
+    224498,
+    -2436596,
+    -5587880
+   ]
+  },
+  {
+   "id": "302",
+   "name": "145 St",
+   "routes": "3",
+   "users": 4170,
+   "through": 3718,
+   "walkLine": 174,
+   "walkAny": 174,
+   "walkStation": 575,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -121401,
+    -270116
+   ]
+  },
+  {
+   "id": "251",
+   "name": "Sutter Av-Rutland Rd",
+   "routes": "3",
+   "users": 8610,
+   "through": 23477,
+   "walkLine": 312,
+   "walkAny": 302,
+   "walkStation": 845,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1336074,
+    -2275155
+   ]
+  },
+  {
+   "id": "N03",
+   "name": "Fort Hamilton Pkwy",
+   "routes": "N",
+   "users": 9462,
+   "through": 42252,
+   "walkLine": 354,
+   "walkAny": 298,
+   "walkStation": 628,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1327876,
+    -3017955
+   ]
+  },
+  {
+   "id": "J19",
+   "name": "Cypress Hills",
+   "routes": "J",
+   "users": 1791,
+   "through": 28856,
+   "walkLine": 326,
+   "walkAny": 326,
+   "walkStation": 582,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -879998,
+    -2034218
+   ]
+  },
+  {
+   "id": "M19",
+   "name": "Bowery",
+   "routes": "J Z",
+   "users": 6072,
+   "through": 39349,
+   "walkLine": 385,
+   "walkAny": 140,
+   "walkStation": 472,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1187650,
+    -2761614
+   ]
+  },
+  {
+   "id": "H07",
+   "name": "Beach 60 St",
+   "routes": "A",
+   "users": 2340,
+   "through": 9317,
+   "walkLine": 519,
+   "walkAny": 519,
+   "walkStation": 652,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -320383,
+    -693044
+   ]
+  },
+  {
+   "id": "A05",
+   "name": "190 St",
+   "routes": "A",
+   "users": 6386,
+   "through": 20281,
+   "walkLine": 333,
+   "walkAny": 129,
+   "walkStation": 804,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -657582,
+    -1468821
+   ]
+  },
+  {
+   "id": "106",
+   "name": "Marble Hill-225 St",
+   "routes": "1",
+   "users": 6874,
+   "through": 27511,
+   "walkLine": 358,
+   "walkAny": 358,
+   "walkStation": 730,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -791490,
+    -1891937
+   ]
+  },
+  {
+   "id": "D28",
+   "name": "Church Av",
+   "routes": "B Q",
+   "users": 21394,
+   "through": 98738,
+   "walkLine": 244,
+   "walkAny": 241,
+   "walkStation": 514,
+   "ada": "yes",
+   "rideDelta": [
+    215324,
+    -3081240,
+    -7030765
+   ]
+  },
+  {
+   "id": "602",
+   "name": "Buhre Av",
+   "routes": "6",
+   "users": 5039,
+   "through": 7831,
+   "walkLine": 218,
+   "walkAny": 218,
+   "walkStation": 491,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -271197,
+    -584433
+   ]
+  },
+  {
+   "id": "L27",
+   "name": "New Lots Av",
+   "routes": "L",
+   "users": 5638,
+   "through": 20707,
+   "walkLine": 399,
+   "walkAny": 273,
+   "walkStation": 555,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -618754,
+    -1447050
+   ]
+  },
+  {
+   "id": "H12",
+   "name": "Beach 90 St",
+   "routes": "A S",
+   "users": 1167,
+   "through": 1140,
+   "walkLine": 374,
+   "walkAny": 374,
+   "walkStation": 645,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -34046,
+    -79631
+   ]
+  },
+  {
+   "id": "231",
+   "name": "Clark St",
+   "routes": "2 3",
+   "users": 10144,
+   "through": 74690,
+   "walkLine": 328,
+   "walkAny": 271,
+   "walkStation": 474,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2330274,
+    -5317869
+   ]
+  },
+  {
+   "id": "G18",
+   "name": "46 St",
+   "routes": "M R",
+   "users": 12944,
+   "through": 65221,
+   "walkLine": 269,
+   "walkAny": 265,
+   "walkStation": 546,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2234926,
+    -4843758
+   ]
+  },
+  {
+   "id": "L28",
+   "name": "East 105 St",
+   "routes": "L",
+   "users": 4374,
+   "through": 17173,
+   "walkLine": 272,
+   "walkAny": 272,
+   "walkStation": 945,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -509090,
+    -1196011
+   ]
+  },
+  {
+   "id": "204",
+   "name": "Nereid Av",
+   "routes": "2 5",
+   "users": 3701,
+   "through": 5481,
+   "walkLine": 283,
+   "walkAny": 283,
+   "walkStation": 606,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -196410,
+    -415641
+   ]
+  },
+  {
+   "id": "604",
+   "name": "Westchester Sq-E Tremont Av",
+   "routes": "6",
+   "users": 6230,
+   "through": 15024,
+   "walkLine": 273,
+   "walkAny": 261,
+   "walkStation": 467,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -523812,
+    -1124752
+   ]
+  },
+  {
+   "id": "D07",
+   "name": "Tremont Av",
+   "routes": "B D",
+   "users": 11327,
+   "through": 37397,
+   "walkLine": 319,
+   "walkAny": 265,
+   "walkStation": 561,
+   "ada": "yes",
+   "rideDelta": [
+    282912,
+    -970553,
+    -2466425
+   ]
+  },
+  {
+   "id": "F38",
+   "name": "Avenue X",
+   "routes": "F",
+   "users": 3725,
+   "through": 7179,
+   "walkLine": 315,
+   "walkAny": 311,
+   "walkStation": 526,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -200731,
+    -487896
+   ]
+  },
+  {
+   "id": "108",
+   "name": "207 St",
+   "routes": "1",
+   "users": 8977,
+   "through": 35437,
+   "walkLine": 355,
+   "walkAny": 138,
+   "walkStation": 619,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1043283,
+    -2460774
+   ]
+  },
+  {
+   "id": "G33",
+   "name": "Bedford-Nostrand Avs",
+   "routes": "G",
+   "users": 13746,
+   "through": 46742,
+   "walkLine": 263,
+   "walkAny": 226,
+   "walkStation": 582,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1374700,
+    -3244378
+   ]
+  },
+  {
+   "id": "F25",
+   "name": "15 St-Prospect Park",
+   "routes": "F G",
+   "users": 9319,
+   "through": 41086,
+   "walkLine": 380,
+   "walkAny": 378,
+   "walkStation": 730,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1312792,
+    -2956246
+   ]
+  },
+  {
+   "id": "A52",
+   "name": "Liberty Av",
+   "routes": "C",
+   "users": 3973,
+   "through": 13174,
+   "walkLine": 343,
+   "walkAny": 179,
+   "walkStation": 728,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -391384,
+    -918337
+   ]
+  },
+  {
+   "id": "205",
+   "name": "233 St",
+   "routes": "2 5",
+   "users": 4674,
+   "through": 8924,
+   "walkLine": 306,
+   "walkAny": 306,
+   "walkStation": 606,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -326375,
+    -683337
+   ]
+  },
+  {
+   "id": "F35",
+   "name": "Kings Hwy",
+   "routes": "F",
+   "users": 4056,
+   "through": 10897,
+   "walkLine": 388,
+   "walkAny": 279,
+   "walkStation": 558,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -330605,
+    -766504
+   ]
+  },
+  {
+   "id": "118",
+   "name": "Cathedral Pkwy (110 St)",
+   "routes": "1",
+   "users": 18436,
+   "through": 97240,
+   "walkLine": 258,
+   "walkAny": 231,
+   "walkStation": 447,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2940798,
+    -6830416
+   ]
+  },
+  {
+   "id": "J22",
+   "name": "Cleveland St",
+   "routes": "J",
+   "users": 3442,
+   "through": 32751,
+   "walkLine": 255,
+   "walkAny": 244,
+   "walkStation": 564,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -999117,
+    -2309156
+   ]
+  },
+  {
+   "id": "A17",
+   "name": "Cathedral Pkwy (110 St)",
+   "routes": "C B",
+   "users": 11311,
+   "through": 27250,
+   "walkLine": 181,
+   "walkAny": 153,
+   "walkStation": 497,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -790674,
+    -1880665
+   ]
+  },
+  {
+   "id": "407",
+   "name": "Fordham Rd",
+   "routes": "4",
+   "users": 12679,
+   "through": 30844,
+   "walkLine": 254,
+   "walkAny": 184,
+   "walkStation": 530,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -987433,
+    -2221190
+   ]
+  },
+  {
+   "id": "F26",
+   "name": "Fort Hamilton Pkwy",
+   "routes": "F G",
+   "users": 8882,
+   "through": 34176,
+   "walkLine": 390,
+   "walkAny": 383,
+   "walkStation": 977,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1099433,
+    -2466485
+   ]
+  },
+  {
+   "id": "A07",
+   "name": "175 St",
+   "routes": "A",
+   "users": 15275,
+   "through": 38003,
+   "walkLine": 234,
+   "walkAny": 216,
+   "walkStation": 376,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1236176,
+    -2756293
+   ]
+  },
+  {
+   "id": "F03",
+   "name": "Parsons Blvd",
+   "routes": "F",
+   "users": 9891,
+   "through": 37968,
+   "walkLine": 356,
+   "walkAny": 298,
+   "walkStation": 540,
+   "ada": "no",
+   "rideDelta": [
+    1647,
+    -1036228,
+    -2554967
+   ]
+  },
+  {
+   "id": "129",
+   "name": "28 St",
+   "routes": "1",
+   "users": 20916,
+   "through": 86701,
+   "walkLine": 183,
+   "walkAny": 56,
+   "walkStation": 346,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2480734,
+    -5948765
+   ]
+  },
+  {
+   "id": "H06",
+   "name": "Beach 67 St",
+   "routes": "A",
+   "users": 3128,
+   "through": 10741,
+   "walkLine": 435,
+   "walkAny": 435,
+   "walkStation": 647,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -370184,
+    -799816
+   ]
+  },
+  {
+   "id": "D31",
+   "name": "Newkirk Plaza",
+   "routes": "B Q",
+   "users": 14711,
+   "through": 78321,
+   "walkLine": 339,
+   "walkAny": 296,
+   "walkStation": 732,
+   "ada": "no",
+   "rideDelta": [
+    419861,
+    -2174661,
+    -5307486
+   ]
+  },
+  {
+   "id": "255",
+   "name": "Pennsylvania Av",
+   "routes": "3",
+   "users": 4998,
+   "through": 8603,
+   "walkLine": 333,
+   "walkAny": 217,
+   "walkStation": 503,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -437919,
+    -782030
+   ]
+  },
+  {
+   "id": "D30",
+   "name": "Cortelyou Rd",
+   "routes": "Q",
+   "users": 8928,
+   "through": 40131,
+   "walkLine": 206,
+   "walkAny": 175,
+   "walkStation": 387,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1213079,
+    -2818314
+   ]
+  },
+  {
+   "id": "139",
+   "name": "Rector St",
+   "routes": "1",
+   "users": 11314,
+   "through": 24550,
+   "walkLine": 213,
+   "walkAny": 38,
+   "walkStation": 344,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -719016,
+    -1701024
+   ]
+  },
+  {
+   "id": "715",
+   "name": "40 St-Lowery St",
+   "routes": "7",
+   "users": 16496,
+   "through": 140471,
+   "walkLine": 260,
+   "walkAny": 260,
+   "walkStation": 496,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4161113,
+    -9779950
+   ]
+  },
+  {
+   "id": "J13",
+   "name": "111 St",
+   "routes": "J",
+   "users": 3451,
+   "through": 25065,
+   "walkLine": 331,
+   "walkAny": 306,
+   "walkStation": 584,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -805094,
+    -1807704
+   ]
+  },
+  {
+   "id": "D05",
+   "name": "Fordham Rd",
+   "routes": "B D",
+   "users": 11689,
+   "through": 22595,
+   "walkLine": 247,
+   "walkAny": 217,
+   "walkStation": 571,
+   "ada": "no",
+   "rideDelta": [
+    58719,
+    -661403,
+    -1565204
+   ]
+  },
+  {
+   "id": "G36",
+   "name": "Fulton St",
+   "routes": "G",
+   "users": 10318,
+   "through": 46694,
+   "walkLine": 397,
+   "walkAny": 81,
+   "walkStation": 652,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1343014,
+    -3210765
+   ]
+  },
+  {
+   "id": "D04",
+   "name": "Kingsbridge Rd",
+   "routes": "B D",
+   "users": 7902,
+   "through": 15935,
+   "walkLine": 290,
+   "walkAny": 267,
+   "walkStation": 540,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -505351,
+    -1142734
+   ]
+  },
+  {
+   "id": "N05",
+   "name": "18 Av",
+   "routes": "N",
+   "users": 7644,
+   "through": 33120,
+   "walkLine": 438,
+   "walkAny": 349,
+   "walkStation": 562,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1064721,
+    -2389530
+   ]
+  },
+  {
+   "id": "249",
+   "name": "Kingston Av",
+   "routes": "3",
+   "users": 6231,
+   "through": 31002,
+   "walkLine": 358,
+   "walkAny": 264,
+   "walkStation": 655,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -966896,
+    -2206994
+   ]
+  },
+  {
+   "id": "246",
+   "name": "Newkirk Av-Little Haiti",
+   "routes": "2 5",
+   "users": 9358,
+   "through": 23589,
+   "walkLine": 314,
+   "walkAny": 284,
+   "walkStation": 571,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -783132,
+    -1726704
+   ]
+  },
+  {
+   "id": "708",
+   "name": "90 St-Elmhurst Av",
+   "routes": "7",
+   "users": 26903,
+   "through": 106783,
+   "walkLine": 274,
+   "walkAny": 265,
+   "walkStation": 592,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3837652,
+    -8108988
+   ]
+  },
+  {
+   "id": "709",
+   "name": "82 St-Jackson Hts",
+   "routes": "7",
+   "users": 22825,
+   "through": 116263,
+   "walkLine": 354,
+   "walkAny": 335,
+   "walkStation": 611,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4217376,
+    -8867881
+   ]
+  },
+  {
+   "id": "119",
+   "name": "103 St",
+   "routes": "1",
+   "users": 17968,
+   "through": 108685,
+   "walkLine": 310,
+   "walkAny": 265,
+   "walkStation": 571,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3302970,
+    -7650357
+   ]
+  },
+  {
+   "id": "244",
+   "name": "Church Av",
+   "routes": "2 5",
+   "users": 13506,
+   "through": 36750,
+   "walkLine": 297,
+   "walkAny": 293,
+   "walkStation": 628,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1220108,
+    -2690107
+   ]
+  },
+  {
+   "id": "A53",
+   "name": "Van Siclen Av",
+   "routes": "C",
+   "users": 4402,
+   "through": 10384,
+   "walkLine": 354,
+   "walkAny": 260,
+   "walkStation": 728,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -282338,
+    -697692
+   ]
+  },
+  {
+   "id": "613",
+   "name": "Hunts Point Av",
+   "routes": "6",
+   "users": 13799,
+   "through": 64305,
+   "walkLine": 351,
+   "walkAny": 286,
+   "walkStation": 718,
+   "ada": "yes",
+   "rideDelta": [
+    1256119,
+    -950556,
+    -3522740
+   ]
+  },
+  {
+   "id": "208",
+   "name": "Gun Hill Rd",
+   "routes": "2 5",
+   "users": 7551,
+   "through": 18766,
+   "walkLine": 375,
+   "walkAny": 302,
+   "walkStation": 678,
+   "ada": "yes",
+   "rideDelta": [
+    36138,
+    -635049,
+    -1385685
+   ]
+  },
+  {
+   "id": "211",
+   "name": "Pelham Pkwy",
+   "routes": "2 5",
+   "users": 9255,
+   "through": 29596,
+   "walkLine": 397,
+   "walkAny": 397,
+   "walkStation": 818,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1086738,
+    -2270559
+   ]
+  },
+  {
+   "id": "103",
+   "name": "238 St",
+   "routes": "1",
+   "users": 6505,
+   "through": 8403,
+   "walkLine": 290,
+   "walkAny": 285,
+   "walkStation": 581,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -221837,
+    -557937
+   ]
+  },
+  {
+   "id": "623",
+   "name": "110 St",
+   "routes": "6",
+   "users": 14845,
+   "through": 80131,
+   "walkLine": 254,
+   "walkAny": 223,
+   "walkStation": 462,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2425059,
+    -5630284
+   ]
+  },
+  {
+   "id": "D38",
+   "name": "Neck Rd",
+   "routes": "Q",
+   "users": 6423,
+   "through": 21770,
+   "walkLine": 306,
+   "walkAny": 299,
+   "walkStation": 493,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -632556,
+    -1503351
+   ]
+  },
+  {
+   "id": "238",
+   "name": "Eastern Pkwy-Brooklyn Museum",
+   "routes": "2 3",
+   "users": 7069,
+   "through": 55282,
+   "walkLine": 346,
+   "walkAny": 346,
+   "walkStation": 477,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1612063,
+    -3823335
+   ]
+  },
+  {
+   "id": "A14",
+   "name": "135 St",
+   "routes": "C B",
+   "users": 7837,
+   "through": 38054,
+   "walkLine": 307,
+   "walkAny": 198,
+   "walkStation": 649,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1004579,
+    -2526756
+   ]
+  },
+  {
+   "id": "R34",
+   "name": "Prospect Av",
+   "routes": "R",
+   "users": 9460,
+   "through": 57564,
+   "walkLine": 335,
+   "walkAny": 306,
+   "walkStation": 619,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1831656,
+    -4134230
+   ]
+  },
+  {
+   "id": "243",
+   "name": "Winthrop St",
+   "routes": "2 5",
+   "users": 12180,
+   "through": 47832,
+   "walkLine": 379,
+   "walkAny": 344,
+   "walkStation": 640,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1618004,
+    -3531295
+   ]
+  },
+  {
+   "id": "502",
+   "name": "Baychester Av",
+   "routes": "5",
+   "users": 3984,
+   "through": 5594,
+   "walkLine": 521,
+   "walkAny": 521,
+   "walkStation": 1340,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -183646,
+    -407406
+   ]
+  },
+  {
+   "id": "R03",
+   "name": "Astoria Blvd",
+   "routes": "N W",
+   "users": 15911,
+   "through": 20964,
+   "walkLine": 197,
+   "walkAny": 197,
+   "walkStation": 493,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -671142,
+    -1509689
+   ]
+  },
+  {
+   "id": "M12",
+   "name": "Flushing Av",
+   "routes": "M J",
+   "users": 13355,
+   "through": 48224,
+   "walkLine": 336,
+   "walkAny": 266,
+   "walkStation": 515,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1485534,
+    -3414494
+   ]
+  },
+  {
+   "id": "A16",
+   "name": "116 St",
+   "routes": "C B",
+   "users": 9336,
+   "through": 27027,
+   "walkLine": 293,
+   "walkAny": 210,
+   "walkStation": 500,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -771379,
+    -1852455
+   ]
+  },
+  {
+   "id": "633",
+   "name": "28 St",
+   "routes": "6",
+   "users": 31490,
+   "through": 124900,
+   "walkLine": 183,
+   "walkAny": 183,
+   "walkStation": 307,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -3847706,
+    -8843702
+   ]
+  },
+  {
+   "id": "405",
+   "name": "Bedford Park Blvd-Lehman College",
+   "routes": "4",
+   "users": 6823,
+   "through": 16712,
+   "walkLine": 437,
+   "walkAny": 70,
+   "walkStation": 822,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -529042,
+    -1197524
+   ]
+  },
+  {
+   "id": "R41",
+   "name": "59 St",
+   "routes": "N R",
+   "users": 19684,
+   "through": 83822,
+   "walkLine": 260,
+   "walkAny": 260,
+   "walkStation": 476,
+   "ada": "yes",
+   "rideDelta": [
+    2677912,
+    104727,
+    -3248138
+   ]
+  },
+  {
+   "id": "M09",
+   "name": "Knickerbocker Av",
+   "routes": "M",
+   "users": 6902,
+   "through": 21185,
+   "walkLine": 456,
+   "walkAny": 262,
+   "walkStation": 658,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -853543,
+    -1700959
+   ]
+  },
+  {
+   "id": "A10",
+   "name": "163 St-Amsterdam Av",
+   "routes": "C",
+   "users": 5840,
+   "through": 9912,
+   "walkLine": 312,
+   "walkAny": 232,
+   "walkStation": 502,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -336995,
+    -733468
+   ]
+  },
+  {
+   "id": "F20",
+   "name": "Bergen St",
+   "routes": "F G",
+   "users": 18910,
+   "through": 88396,
+   "walkLine": 308,
+   "walkAny": 259,
+   "walkStation": 600,
+   "ada": "no",
+   "rideDelta": [
+    161267,
+    -2593873,
+    -6129708
+   ]
+  },
+  {
+   "id": "J16",
+   "name": "85 St-Forest Pkwy",
+   "routes": "J",
+   "users": 5091,
+   "through": 25681,
+   "walkLine": 351,
+   "walkAny": 324,
+   "walkStation": 574,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -793284,
+    -1820519
+   ]
+  },
+  {
+   "id": "213",
+   "name": "E 180 St",
+   "routes": "2 5",
+   "users": 11936,
+   "through": 56949,
+   "walkLine": 399,
+   "walkAny": 325,
+   "walkStation": 680,
+   "ada": "yes",
+   "rideDelta": [
+    6329624,
+    4334867,
+    2056898
+   ]
+  },
+  {
+   "id": "R42",
+   "name": "Bay Ridge Av",
+   "routes": "R",
+   "users": 11889,
+   "through": 27360,
+   "walkLine": 357,
+   "walkAny": 332,
+   "walkStation": 645,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -803761,
+    -1898176
+   ]
+  },
+  {
+   "id": "A54",
+   "name": "Shepherd Av",
+   "routes": "C",
+   "users": 3724,
+   "through": 8596,
+   "walkLine": 448,
+   "walkAny": 304,
+   "walkStation": 750,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -217225,
+    -561046
+   ]
+  },
+  {
+   "id": "R30",
+   "name": "DeKalb Av",
+   "routes": "B Q R",
+   "users": 36126,
+   "through": 192667,
+   "walkLine": 218,
+   "walkAny": 151,
+   "walkStation": 438,
+   "ada": "yes",
+   "rideDelta": [
+    874287,
+    -4822876,
+    -12529570
+   ]
+  },
+  {
+   "id": "N08",
+   "name": "Kings Hwy",
+   "routes": "N",
+   "users": 8482,
+   "through": 15974,
+   "walkLine": 358,
+   "walkAny": 249,
+   "walkStation": 630,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -514063,
+    -1153043
+   ]
+  },
+  {
+   "id": "714",
+   "name": "46 St-Bliss St",
+   "routes": "7",
+   "users": 21173,
+   "through": 132669,
+   "walkLine": 249,
+   "walkAny": 248,
+   "walkStation": 474,
+   "ada": "no",
+   "rideDelta": [
+    93231,
+    -3819458,
+    -9126229
+   ]
+  },
+  {
+   "id": "L19",
+   "name": "Halsey St",
+   "routes": "L",
+   "users": 11979,
+   "through": 49693,
+   "walkLine": 382,
+   "walkAny": 319,
+   "walkStation": 728,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1762421,
+    -3750140
+   ]
+  },
+  {
+   "id": "114",
+   "name": "145 St",
+   "routes": "1",
+   "users": 12752,
+   "through": 62604,
+   "walkLine": 362,
+   "walkAny": 307,
+   "walkStation": 633,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1861236,
+    -4365377
+   ]
+  },
+  {
+   "id": "J31",
+   "name": "Kosciuszko St",
+   "routes": "J",
+   "users": 7453,
+   "through": 29471,
+   "walkLine": 317,
+   "walkAny": 251,
+   "walkStation": 516,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -938034,
+    -2116863
+   ]
+  },
+  {
+   "id": "D33",
+   "name": "Avenue J",
+   "routes": "Q",
+   "users": 7832,
+   "through": 30016,
+   "walkLine": 336,
+   "walkAny": 301,
+   "walkStation": 612,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -904753,
+    -2105383
+   ]
+  },
+  {
+   "id": "110",
+   "name": "191 St",
+   "routes": "1",
+   "users": 10567,
+   "through": 47615,
+   "walkLine": 452,
+   "walkAny": 327,
+   "walkStation": 842,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1407967,
+    -3312580
+   ]
+  },
+  {
+   "id": "R04",
+   "name": "30 Av",
+   "routes": "N W",
+   "users": 20690,
+   "through": 34976,
+   "walkLine": 227,
+   "walkAny": 214,
+   "walkStation": 467,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1110358,
+    -2509408
+   ]
+  },
+  {
+   "id": "716",
+   "name": "33 St-Rawson St",
+   "routes": "7",
+   "users": 14223,
+   "through": 143050,
+   "walkLine": 414,
+   "walkAny": 381,
+   "walkStation": 623,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4269974,
+    -9991980
+   ]
+  },
+  {
+   "id": "133",
+   "name": "Christopher St-Stonewall",
+   "routes": "1",
+   "users": 18499,
+   "through": 91872,
+   "walkLine": 236,
+   "walkAny": 166,
+   "walkStation": 492,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2790242,
+    -6465114
+   ]
+  },
+  {
+   "id": "F14",
+   "name": "2 Av",
+   "routes": "F",
+   "users": 27074,
+   "through": 110348,
+   "walkLine": 217,
+   "walkAny": 162,
+   "walkStation": 460,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3564858,
+    -7978787
+   ]
+  },
+  {
+   "id": "B22",
+   "name": "25 Av",
+   "routes": "D",
+   "users": 5741,
+   "through": 7772,
+   "walkLine": 445,
+   "walkAny": 365,
+   "walkStation": 693,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -219879,
+    -530753
+   ]
+  },
+  {
+   "id": "H03",
+   "name": "Howard Beach-JFK Airport",
+   "routes": "A",
+   "users": 4771,
+   "through": 17755,
+   "walkLine": 641,
+   "walkAny": 641,
+   "walkStation": 1124,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -515318,
+    -1225506
+   ]
+  },
+  {
+   "id": "J29",
+   "name": "Halsey St",
+   "routes": "J",
+   "users": 8774,
+   "through": 23953,
+   "walkLine": 254,
+   "walkAny": 220,
+   "walkStation": 472,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -735157,
+    -1693278
+   ]
+  },
+  {
+   "id": "N07",
+   "name": "Bay Pkwy",
+   "routes": "N",
+   "users": 10161,
+   "through": 21599,
+   "walkLine": 362,
+   "walkAny": 320,
+   "walkStation": 692,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -687948,
+    -1551927
+   ]
+  },
+  {
+   "id": "638",
+   "name": "Spring St",
+   "routes": "6",
+   "users": 19593,
+   "through": 42865,
+   "walkLine": 179,
+   "walkAny": 99,
+   "walkStation": 356,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1299150,
+    -3013762
+   ]
+  },
+  {
+   "id": "B23",
+   "name": "Bay 50 St",
+   "routes": "D",
+   "users": 4131,
+   "through": 5243,
+   "walkLine": 575,
+   "walkAny": 532,
+   "walkStation": 1159,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -128658,
+    -338381
+   ]
+  },
+  {
+   "id": "A40",
+   "name": "High St",
+   "routes": "A C",
+   "users": 17933,
+   "through": 158774,
+   "walkLine": 374,
+   "walkAny": 161,
+   "walkStation": 832,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4647530,
+    -10998480
+   ]
+  },
+  {
+   "id": "D37",
+   "name": "Avenue U",
+   "routes": "Q",
+   "users": 9933,
+   "through": 24398,
+   "walkLine": 293,
+   "walkAny": 278,
+   "walkStation": 489,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -734080,
+    -1710009
+   ]
+  },
+  {
+   "id": "A49",
+   "name": "Ralph Av",
+   "routes": "C",
+   "users": 8188,
+   "through": 23724,
+   "walkLine": 328,
+   "walkAny": 271,
+   "walkStation": 687,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -776893,
+    -1725840
+   ]
+  },
+  {
+   "id": "624",
+   "name": "103 St",
+   "routes": "6",
+   "users": 18679,
+   "through": 84912,
+   "walkLine": 285,
+   "walkAny": 232,
+   "walkStation": 572,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2595701,
+    -5992168
+   ]
+  },
+  {
+   "id": "A48",
+   "name": "Utica Av",
+   "routes": "A C",
+   "users": 21981,
+   "through": 115289,
+   "walkLine": 327,
+   "walkAny": 269,
+   "walkStation": 744,
+   "ada": "yes",
+   "rideDelta": [
+    1030891,
+    -2291601,
+    -6903149
+   ]
+  },
+  {
+   "id": "619",
+   "name": "3 Av-138 St",
+   "routes": "6",
+   "users": 12077,
+   "through": 97129,
+   "walkLine": 517,
+   "walkAny": 306,
+   "walkStation": 677,
+   "ada": "no",
+   "rideDelta": [
+    19850,
+    -3141896,
+    -7027036
+   ]
+  },
+  {
+   "id": "R39",
+   "name": "45 St",
+   "routes": "R",
+   "users": 12494,
+   "through": 46220,
+   "walkLine": 309,
+   "walkAny": 288,
+   "walkStation": 562,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1471226,
+    -3320007
+   ]
+  },
+  {
+   "id": "A43",
+   "name": "Lafayette Av",
+   "routes": "C",
+   "users": 8276,
+   "through": 47703,
+   "walkLine": 439,
+   "walkAny": 122,
+   "walkStation": 644,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1344416,
+    -3252530
+   ]
+  },
+  {
+   "id": "L16",
+   "name": "DeKalb Av",
+   "routes": "L",
+   "users": 19476,
+   "through": 77761,
+   "walkLine": 317,
+   "walkAny": 259,
+   "walkStation": 382,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2788023,
+    -5898476
+   ]
+  },
+  {
+   "id": "A46",
+   "name": "Nostrand Av",
+   "routes": "A C",
+   "users": 27101,
+   "through": 135600,
+   "walkLine": 274,
+   "walkAny": 218,
+   "walkStation": 440,
+   "ada": "no",
+   "rideDelta": [
+    81315,
+    -3906601,
+    -9330617
+   ]
+  },
+  {
+   "id": "N02",
+   "name": "8 Av",
+   "routes": "N",
+   "users": 16735,
+   "through": 42646,
+   "walkLine": 310,
+   "walkAny": 260,
+   "walkStation": 628,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1368189,
+    -3074023
+   ]
+  },
+  {
+   "id": "116",
+   "name": "125 St",
+   "routes": "1",
+   "users": 12782,
+   "through": 78792,
+   "walkLine": 447,
+   "walkAny": 365,
+   "walkStation": 768,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2356912,
+    -5508588
+   ]
+  },
+  {
+   "id": "503",
+   "name": "Gun Hill Rd",
+   "routes": "5",
+   "users": 5659,
+   "through": 9104,
+   "walkLine": 583,
+   "walkAny": 583,
+   "walkStation": 1647,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -300468,
+    -664618
+   ]
+  },
+  {
+   "id": "115",
+   "name": "137 St-City College",
+   "routes": "1",
+   "users": 16695,
+   "through": 68766,
+   "walkLine": 344,
+   "walkAny": 325,
+   "walkStation": 631,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -2042235,
+    -4792860
+   ]
+  },
+  {
+   "id": "237",
+   "name": "Grand Army Plaza",
+   "routes": "2 3",
+   "users": 10992,
+   "through": 58608,
+   "walkLine": 390,
+   "walkAny": 170,
+   "walkStation": 717,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1714030,
+    -4058352
+   ]
+  },
+  {
+   "id": "R13",
+   "name": "5 Av/59 St",
+   "routes": "N R W",
+   "users": 24186,
+   "through": 113708,
+   "walkLine": 258,
+   "walkAny": 187,
+   "walkStation": 509,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3165721,
+    -7714058
+   ]
+  },
+  {
+   "id": "B21",
+   "name": "Bay Pkwy",
+   "routes": "D",
+   "users": 10651,
+   "through": 11418,
+   "walkLine": 306,
+   "walkAny": 282,
+   "walkStation": 454,
+   "ada": "yes",
+   "rideDelta": [
+    693,
+    -346412,
+    -803148
+   ]
+  },
+  {
+   "id": "406",
+   "name": "Kingsbridge Rd",
+   "routes": "4",
+   "users": 11244,
+   "through": 22032,
+   "walkLine": 367,
+   "walkAny": 174,
+   "walkStation": 631,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -709286,
+    -1590556
+   ]
+  },
+  {
+   "id": "R40",
+   "name": "53 St",
+   "routes": "R",
+   "users": 14252,
+   "through": 40050,
+   "walkLine": 261,
+   "walkAny": 252,
+   "walkStation": 446,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1258686,
+    -2860701
+   ]
+  },
+  {
+   "id": "402",
+   "name": "Mosholu Pkwy",
+   "routes": "4",
+   "users": 10006,
+   "through": 7945,
+   "walkLine": 341,
+   "walkAny": 255,
+   "walkStation": 886,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -247089,
+    -564891
+   ]
+  },
+  {
+   "id": "R05",
+   "name": "Broadway",
+   "routes": "N W",
+   "users": 18642,
+   "through": 52884,
+   "walkLine": 345,
+   "walkAny": 302,
+   "walkStation": 625,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1634692,
+    -3750055
+   ]
+  },
+  {
+   "id": "A03",
+   "name": "Dyckman St",
+   "routes": "A",
+   "users": 9466,
+   "through": 11644,
+   "walkLine": 361,
+   "walkAny": 295,
+   "walkStation": 569,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -373151,
+    -838893
+   ]
+  },
+  {
+   "id": "A25",
+   "name": "50 St",
+   "routes": "C E",
+   "users": 35643,
+   "through": 153393,
+   "walkLine": 245,
+   "walkAny": 131,
+   "walkStation": 401,
+   "ada": "partial",
+   "rideDelta": [
+    240322,
+    -4179287,
+    -10315006
+   ]
+  },
+  {
+   "id": "706",
+   "name": "103 St-Corona Plaza",
+   "routes": "7",
+   "users": 29213,
+   "through": 80196,
+   "walkLine": 269,
+   "walkAny": 268,
+   "walkStation": 562,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2654714,
+    -5862555
+   ]
+  },
+  {
+   "id": "111",
+   "name": "181 St",
+   "routes": "1",
+   "users": 14705,
+   "through": 53341,
+   "walkLine": 425,
+   "walkAny": 219,
+   "walkStation": 776,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1541511,
+    -3675157
+   ]
+  },
+  {
+   "id": "N09",
+   "name": "Avenue U",
+   "routes": "N",
+   "users": 5699,
+   "through": 11969,
+   "walkLine": 627,
+   "walkAny": 274,
+   "walkStation": 538,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -392058,
+    -870799
+   ]
+  },
+  {
+   "id": "104",
+   "name": "231 St",
+   "routes": "1",
+   "users": 12712,
+   "through": 14982,
+   "walkLine": 309,
+   "walkAny": 308,
+   "walkStation": 692,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -404534,
+    -1003812
+   ]
+  },
+  {
+   "id": "M16",
+   "name": "Marcy Av",
+   "routes": "M J Z",
+   "users": 19545,
+   "through": 72147,
+   "walkLine": 348,
+   "walkAny": 324,
+   "walkStation": 363,
+   "ada": "yes",
+   "rideDelta": [
+    115938,
+    -2272720,
+    -5158602
+   ]
+  },
+  {
+   "id": "622",
+   "name": "116 St",
+   "routes": "6",
+   "users": 18658,
+   "through": 72207,
+   "walkLine": 265,
+   "walkAny": 252,
+   "walkStation": 482,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2177597,
+    -5065870
+   ]
+  },
+  {
+   "id": "F02",
+   "name": "169 St",
+   "routes": "F",
+   "users": 11261,
+   "through": 26356,
+   "walkLine": 416,
+   "walkAny": 390,
+   "walkStation": 736,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -698547,
+    -1752807
+   ]
+  },
+  {
+   "id": "A50",
+   "name": "Rockaway Av",
+   "routes": "C",
+   "users": 7253,
+   "through": 21242,
+   "walkLine": 431,
+   "walkAny": 319,
+   "walkStation": 668,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -681191,
+    -1530853
+   ]
+  },
+  {
+   "id": "A19",
+   "name": "96 St",
+   "routes": "C B",
+   "users": 15130,
+   "through": 33509,
+   "walkLine": 328,
+   "walkAny": 166,
+   "walkStation": 535,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1007588,
+    -2347938
+   ]
+  },
+  {
+   "id": "A20",
+   "name": "86 St",
+   "routes": "C B",
+   "users": 17365,
+   "through": 40252,
+   "walkLine": 311,
+   "walkAny": 210,
+   "walkStation": 449,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1234615,
+    -2844690
+   ]
+  },
+  {
+   "id": "A34",
+   "name": "Canal St",
+   "routes": "A C E",
+   "users": 28858,
+   "through": 163194,
+   "walkLine": 333,
+   "walkAny": 80,
+   "walkStation": 564,
+   "ada": "no",
+   "rideDelta": [
+    505949,
+    -4193936,
+    -10721705
+   ]
+  },
+  {
+   "id": "A22",
+   "name": "72 St",
+   "routes": "C B",
+   "users": 16437,
+   "through": 63928,
+   "walkLine": 380,
+   "walkAny": 179,
+   "walkStation": 573,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1945175,
+    -4502305
+   ]
+  },
+  {
+   "id": "130",
+   "name": "23 St",
+   "routes": "1",
+   "users": 20391,
+   "through": 79653,
+   "walkLine": 268,
+   "walkAny": 24,
+   "walkStation": 314,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2280168,
+    -5466274
+   ]
+  },
+  {
+   "id": "705",
+   "name": "111 St",
+   "routes": "7",
+   "users": 23158,
+   "through": 63374,
+   "walkLine": 373,
+   "walkAny": 373,
+   "walkStation": 576,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1989583,
+    -4524545
+   ]
+  },
+  {
+   "id": "F21",
+   "name": "Carroll St",
+   "routes": "F G",
+   "users": 19939,
+   "through": 74670,
+   "walkLine": 396,
+   "walkAny": 371,
+   "walkStation": 582,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2342493,
+    -5329312
+   ]
+  },
+  {
+   "id": "M05",
+   "name": "Forest Av",
+   "routes": "M",
+   "users": 7228,
+   "through": 12481,
+   "walkLine": 568,
+   "walkAny": 568,
+   "walkStation": 568,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -552308,
+    -1051528
+   ]
+  },
+  {
+   "id": "G09",
+   "name": "67 Av",
+   "routes": "M R",
+   "users": 12431,
+   "through": 34024,
+   "walkLine": 335,
+   "walkAny": 335,
+   "walkStation": 722,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1184064,
+    -2545017
+   ]
+  },
+  {
+   "id": "R18",
+   "name": "28 St",
+   "routes": "R W",
+   "users": 19970,
+   "through": 84327,
+   "walkLine": 297,
+   "walkAny": 229,
+   "walkStation": 366,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2303572,
+    -5676647
+   ]
+  },
+  {
+   "id": "230",
+   "name": "Wall St",
+   "routes": "2 3",
+   "users": 29940,
+   "through": 74888,
+   "walkLine": 253,
+   "walkAny": 101,
+   "walkStation": 329,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2324660,
+    -5320177
+   ]
+  },
+  {
+   "id": "707",
+   "name": "Junction Blvd",
+   "routes": "7",
+   "users": 38690,
+   "through": 110829,
+   "walkLine": 241,
+   "walkAny": 239,
+   "walkStation": 576,
+   "ada": "yes",
+   "rideDelta": [
+    2262128,
+    -1586641,
+    -6019786
+   ]
+  },
+  {
+   "id": "A06",
+   "name": "181 St",
+   "routes": "A",
+   "users": 14562,
+   "through": 25519,
+   "walkLine": 347,
+   "walkAny": 267,
+   "walkStation": 437,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -829882,
+    -1850625
+   ]
+  },
+  {
+   "id": "224",
+   "name": "135 St",
+   "routes": "2 3",
+   "users": 16403,
+   "through": 59923,
+   "walkLine": 456,
+   "walkAny": 324,
+   "walkStation": 765,
+   "ada": "yes",
+   "rideDelta": [
+    133003,
+    -1767030,
+    -4163956
+   ]
+  },
+  {
+   "id": "712",
+   "name": "61 St-Woodside",
+   "routes": "7",
+   "users": 25938,
+   "through": 122768,
+   "walkLine": 307,
+   "walkAny": 295,
+   "walkStation": 581,
+   "ada": "yes",
+   "rideDelta": [
+    1066449,
+    -2639495,
+    -7550204
+   ]
+  },
+  {
+   "id": "420",
+   "name": "Bowling Green",
+   "routes": "4 5",
+   "users": 33927,
+   "through": 97821,
+   "walkLine": 245,
+   "walkAny": 91,
+   "walkStation": 382,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -2964471,
+    -6877292
+   ]
+  },
+  {
+   "id": "A47",
+   "name": "Kingston-Throop Avs",
+   "routes": "C",
+   "users": 10163,
+   "through": 31338,
+   "walkLine": 370,
+   "walkAny": 298,
+   "walkStation": 711,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -932379,
+    -2185917
+   ]
+  },
+  {
+   "id": "124",
+   "name": "66 St-Lincoln Center",
+   "routes": "1",
+   "users": 31930,
+   "through": 124446,
+   "walkLine": 248,
+   "walkAny": 184,
+   "walkStation": 468,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -3495607,
+    -8473451
+   ]
+  },
+  {
+   "id": "R44",
+   "name": "86 St",
+   "routes": "R",
+   "users": 17008,
+   "through": 6728,
+   "walkLine": 245,
+   "walkAny": 241,
+   "walkStation": 529,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -211368,
+    -480499
+   ]
+  },
+  {
+   "id": "G19",
+   "name": "Steinway St",
+   "routes": "M R",
+   "users": 18309,
+   "through": 67935,
+   "walkLine": 358,
+   "walkAny": 317,
+   "walkStation": 658,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2323094,
+    -5040501
+   ]
+  },
+  {
+   "id": "G13",
+   "name": "Elmhurst Av",
+   "routes": "M R",
+   "users": 20412,
+   "through": 75949,
+   "walkLine": 415,
+   "walkAny": 276,
+   "walkStation": 672,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2414041,
+    -5452015
+   ]
+  },
+  {
+   "id": "D34",
+   "name": "Avenue M",
+   "routes": "Q",
+   "users": 8368,
+   "through": 26796,
+   "walkLine": 514,
+   "walkAny": 460,
+   "walkStation": 1002,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -800138,
+    -1871970
+   ]
+  },
+  {
+   "id": "123",
+   "name": "72 St",
+   "routes": "1 2 3",
+   "users": 58186,
+   "through": 250077,
+   "walkLine": 212,
+   "walkAny": 212,
+   "walkStation": 549,
+   "ada": "yes",
+   "rideDelta": [
+    5715242,
+    -1908452,
+    -11911532
+   ]
+  },
+  {
+   "id": "138",
+   "name": "WTC Cortlandt",
+   "routes": "1",
+   "users": 27766,
+   "through": 32832,
+   "walkLine": 227,
+   "walkAny": 119,
+   "walkStation": 384,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -981406,
+    -2294701
+   ]
+  },
+  {
+   "id": "122",
+   "name": "79 St",
+   "routes": "1",
+   "users": 22953,
+   "through": 132569,
+   "walkLine": 336,
+   "walkAny": 268,
+   "walkStation": 553,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3977288,
+    -9280049
+   ]
+  },
+  {
+   "id": "A21",
+   "name": "81 St-Museum of Natural History",
+   "routes": "C B",
+   "users": 20379,
+   "through": 49847,
+   "walkLine": 316,
+   "walkAny": 237,
+   "walkStation": 460,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1525248,
+    -3519116
+   ]
+  },
+  {
+   "id": "A44",
+   "name": "Clinton-Washington Avs",
+   "routes": "C",
+   "users": 12486,
+   "through": 41785,
+   "walkLine": 423,
+   "walkAny": 270,
+   "walkStation": 632,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1137729,
+    -2809123
+   ]
+  },
+  {
+   "id": "R32",
+   "name": "Union St",
+   "routes": "R",
+   "users": 13698,
+   "through": 67608,
+   "walkLine": 459,
+   "walkAny": 342,
+   "walkStation": 848,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2032832,
+    -4737140
+   ]
+  },
+  {
+   "id": "G28",
+   "name": "Nassau Av",
+   "routes": "G",
+   "users": 16548,
+   "through": 52752,
+   "walkLine": 515,
+   "walkAny": 413,
+   "walkStation": 704,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1625001,
+    -3735088
+   ]
+  },
+  {
+   "id": "G10",
+   "name": "63 Dr-Rego Park",
+   "routes": "M R",
+   "users": 20836,
+   "through": 28967,
+   "walkLine": 285,
+   "walkAny": 285,
+   "walkStation": 693,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1020784,
+    -2179454
+   ]
+  },
+  {
+   "id": "721",
+   "name": "Vernon Blvd-Jackson Av",
+   "routes": "7",
+   "users": 29320,
+   "through": 125709,
+   "walkLine": 308,
+   "walkAny": 222,
+   "walkStation": 475,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3681548,
+    -8709908
+   ]
+  },
+  {
+   "id": "F24",
+   "name": "7 Av",
+   "routes": "F G",
+   "users": 19145,
+   "through": 48247,
+   "walkLine": 464,
+   "walkAny": 398,
+   "walkStation": 690,
+   "ada": "yes",
+   "rideDelta": [
+    95393,
+    -1470275,
+    -3400144
+   ]
+  },
+  {
+   "id": "636",
+   "name": "Astor Pl",
+   "routes": "6",
+   "users": 24285,
+   "through": 104049,
+   "walkLine": 382,
+   "walkAny": 91,
+   "walkStation": 506,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3637264,
+    -7799208
+   ]
+  },
+  {
+   "id": "121",
+   "name": "86 St",
+   "routes": "1",
+   "users": 26626,
+   "through": 117578,
+   "walkLine": 311,
+   "walkAny": 300,
+   "walkStation": 560,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3568396,
+    -8271501
+   ]
+  },
+  {
+   "id": "B08",
+   "name": "Lexington Av/63 St",
+   "routes": "M Q",
+   "users": 24082,
+   "through": 141806,
+   "walkLine": 413,
+   "walkAny": 153,
+   "walkStation": 793,
+   "ada": "yes",
+   "rideDelta": [
+    5817024,
+    1132403,
+    -4539836
+   ]
+  },
+  {
+   "id": "F16",
+   "name": "East Broadway",
+   "routes": "F",
+   "users": 23774,
+   "through": 92543,
+   "walkLine": 393,
+   "walkAny": 311,
+   "walkStation": 531,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2894308,
+    -6596044
+   ]
+  },
+  {
+   "id": "G12",
+   "name": "Grand Av-Newtown",
+   "routes": "M R",
+   "users": 28794,
+   "through": 54312,
+   "walkLine": 313,
+   "walkAny": 313,
+   "walkStation": 618,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1820340,
+    -3992800
+   ]
+  },
+  {
+   "id": "G11",
+   "name": "Woodhaven Blvd",
+   "routes": "M R",
+   "users": 29023,
+   "through": 35058,
+   "walkLine": 250,
+   "walkAny": 250,
+   "walkStation": 631,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1223972,
+    -2626285
+   ]
+  },
+  {
+   "id": "221",
+   "name": "3 Av-149 St",
+   "routes": "2 5",
+   "users": 25776,
+   "through": 94519,
+   "walkLine": 426,
+   "walkAny": 354,
+   "walkStation": 844,
+   "ada": "yes",
+   "rideDelta": [
+    12592,
+    -3539659,
+    -7320427
+   ]
+  },
+  {
+   "id": "117",
+   "name": "116 St-Columbia University",
+   "routes": "1",
+   "users": 20671,
+   "through": 85439,
+   "walkLine": 428,
+   "walkAny": 416,
+   "walkStation": 483,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2540724,
+    -5958284
+   ]
+  },
+  {
+   "id": "R36",
+   "name": "36 St",
+   "routes": "D N R",
+   "users": 24563,
+   "through": 161027,
+   "walkLine": 486,
+   "walkAny": 486,
+   "walkStation": 708,
+   "ada": "no",
+   "rideDelta": [
+    3194136,
+    -2117021,
+    -8558113
+   ]
+  },
+  {
+   "id": "R19",
+   "name": "23 St",
+   "routes": "R W",
+   "users": 30763,
+   "through": 74777,
+   "walkLine": 274,
+   "walkAny": 78,
+   "walkStation": 478,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1949471,
+    -4940551
+   ]
+  },
+  {
+   "id": "D25",
+   "name": "7 Av",
+   "routes": "B Q",
+   "users": 15482,
+   "through": 126046,
+   "walkLine": 761,
+   "walkAny": 135,
+   "walkStation": 780,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -4078522,
+    -9120375
+   ]
+  },
+  {
+   "id": "632",
+   "name": "33 St",
+   "routes": "6",
+   "users": 42819,
+   "through": 126313,
+   "walkLine": 258,
+   "walkAny": 230,
+   "walkStation": 376,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3829350,
+    -8881856
+   ]
+  },
+  {
+   "id": "M04",
+   "name": "Fresh Pond Rd",
+   "routes": "M",
+   "users": 9285,
+   "through": 4885,
+   "walkLine": 701,
+   "walkAny": 611,
+   "walkStation": 617,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -216242,
+    -411627
+   ]
+  },
+  {
+   "id": "634",
+   "name": "23 St-Baruch College",
+   "routes": "6",
+   "users": 40176,
+   "through": 113984,
+   "walkLine": 261,
+   "walkAny": 177,
+   "walkStation": 333,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -3614185,
+    -8173545
+   ]
+  },
+  {
+   "id": "M11",
+   "name": "Myrtle Av",
+   "routes": "M J Z",
+   "users": 19124,
+   "through": 57944,
+   "walkLine": 517,
+   "walkAny": 517,
+   "walkStation": 517,
+   "ada": "no",
+   "rideDelta": [
+    1775715,
+    -76297,
+    -2394051
+   ]
+  },
+  {
+   "id": "B10",
+   "name": "57 St",
+   "routes": "M",
+   "users": 17346,
+   "through": 46289,
+   "walkLine": 482,
+   "walkAny": 180,
+   "walkStation": 504,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1409120,
+    -3260686
+   ]
+  },
+  {
+   "id": "625",
+   "name": "96 St",
+   "routes": "6",
+   "users": 27366,
+   "through": 91988,
+   "walkLine": 379,
+   "walkAny": 248,
+   "walkStation": 586,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2819619,
+    -6499157
+   ]
+  },
+  {
+   "id": "225",
+   "name": "125 St",
+   "routes": "2 3",
+   "users": 20848,
+   "through": 63928,
+   "walkLine": 503,
+   "walkAny": 326,
+   "walkStation": 722,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2039859,
+    -4596967
+   ]
+  },
+  {
+   "id": "D39",
+   "name": "Sheepshead Bay",
+   "routes": "B Q",
+   "users": 18365,
+   "through": 28676,
+   "walkLine": 513,
+   "walkAny": 510,
+   "walkStation": 1036,
+   "ada": "yes",
+   "rideDelta": [
+    533958,
+    -401679,
+    -1548703
+   ]
+  },
+  {
+   "id": "134",
+   "name": "Houston St",
+   "routes": "1",
+   "users": 24498,
+   "through": 72432,
+   "walkLine": 389,
+   "walkAny": 240,
+   "walkStation": 597,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2229669,
+    -5126932
+   ]
+  },
+  {
+   "id": "A33",
+   "name": "Spring St",
+   "routes": "C E",
+   "users": 27044,
+   "through": 81385,
+   "walkLine": 320,
+   "walkAny": 186,
+   "walkStation": 482,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -1946883,
+    -5202283
+   ]
+  },
+  {
+   "id": "621",
+   "name": "125 St",
+   "routes": "4 5 6",
+   "users": 34431,
+   "through": 232247,
+   "walkLine": 409,
+   "walkAny": 316,
+   "walkStation": 711,
+   "ada": "yes",
+   "rideDelta": [
+    16419608,
+    8501716,
+    -788164
+   ]
+  },
+  {
+   "id": "F06",
+   "name": "Kew Gardens-Union Tpke",
+   "routes": "E F",
+   "users": 34380,
+   "through": 115567,
+   "walkLine": 402,
+   "walkAny": 375,
+   "walkStation": 626,
+   "ada": "yes",
+   "rideDelta": [
+    551415,
+    -3225336,
+    -7848021
+   ]
+  },
+  {
+   "id": "R21",
+   "name": "8 St-NYU",
+   "routes": "R W",
+   "users": 25423,
+   "through": 53822,
+   "walkLine": 331,
+   "walkAny": 99,
+   "walkStation": 536,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1547774,
+    -3700649
+   ]
+  },
+  {
+   "id": "G26",
+   "name": "Greenpoint Av",
+   "routes": "G",
+   "users": 17532,
+   "through": 52553,
+   "walkLine": 582,
+   "walkAny": 520,
+   "walkStation": 661,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1579517,
+    -3681636
+   ]
+  },
+  {
+   "id": "G06",
+   "name": "Sutphin Blvd-Archer Av-JFK Airport",
+   "routes": "E J Z",
+   "users": 40806,
+   "through": 59011,
+   "walkLine": 241,
+   "walkAny": 194,
+   "walkStation": 495,
+   "ada": "yes",
+   "rideDelta": [
+    2244983,
+    500069,
+    -1860371
+   ]
+  },
+  {
+   "id": "113",
+   "name": "157 St",
+   "routes": "1",
+   "users": 14542,
+   "through": 55842,
+   "walkLine": 707,
+   "walkAny": 335,
+   "walkStation": 888,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1646673,
+    -3880372
+   ]
+  },
+  {
+   "id": "A15",
+   "name": "125 St",
+   "routes": "A C B D",
+   "users": 39441,
+   "through": 178079,
+   "walkLine": 425,
+   "walkAny": 244,
+   "walkStation": 734,
+   "ada": "yes",
+   "rideDelta": [
+    2939656,
+    -2849840,
+    -9973018
+   ]
+  },
+  {
+   "id": "R15",
+   "name": "49 St",
+   "routes": "N R W",
+   "users": 44773,
+   "through": 118630,
+   "walkLine": 269,
+   "walkAny": 56,
+   "walkStation": 470,
+   "ada": "partial",
+   "rideDelta": [
+    0,
+    -3132040,
+    -7877223
+   ]
+  },
+  {
+   "id": "A30",
+   "name": "23 St",
+   "routes": "C E",
+   "users": 33384,
+   "through": 140249,
+   "walkLine": 396,
+   "walkAny": 191,
+   "walkStation": 596,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3418580,
+    -9028552
+   ]
+  },
+  {
+   "id": "D18",
+   "name": "23 St",
+   "routes": "F M",
+   "users": 44330,
+   "through": 129560,
+   "walkLine": 396,
+   "walkAny": 87,
+   "walkStation": 538,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3803523,
+    -8985917
+   ]
+  },
+  {
+   "id": "R22",
+   "name": "Prince St",
+   "routes": "R W",
+   "users": 20909,
+   "through": 45342,
+   "walkLine": 442,
+   "walkAny": 84,
+   "walkStation": 635,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -1263087,
+    -3076779
+   ]
+  },
+  {
+   "id": "D15",
+   "name": "47-50 Sts-Rockefeller Ctr",
+   "routes": "B D F M",
+   "users": 93019,
+   "through": 291475,
+   "walkLine": 240,
+   "walkAny": 160,
+   "walkStation": 453,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -8617553,
+    -20276565
+   ]
+  },
+  {
+   "id": "N10",
+   "name": "86 St",
+   "routes": "N",
+   "users": 3590,
+   "through": 9371,
+   "walkLine": 2996,
+   "walkAny": 2996,
+   "walkStation": 477,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -312213,
+    -687066
+   ]
+  },
+  {
+   "id": "B04",
+   "name": "21 St-Queensbridge",
+   "routes": "M",
+   "users": 14561,
+   "through": 39852,
+   "walkLine": 889,
+   "walkAny": 335,
+   "walkStation": 1198,
+   "ada": "yes",
+   "rideDelta": [
+    205,
+    -1424682,
+    -3018752
+   ]
+  },
+  {
+   "id": "628",
+   "name": "68 St-Hunter College",
+   "routes": "6",
+   "users": 37543,
+   "through": 143275,
+   "walkLine": 447,
+   "walkAny": 241,
+   "walkStation": 631,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -4445036,
+    -10176039
+   ]
+  },
+  {
+   "id": "120",
+   "name": "96 St",
+   "routes": "1 2 3",
+   "users": 52878,
+   "through": 195700,
+   "walkLine": 362,
+   "walkAny": 317,
+   "walkStation": 589,
+   "ada": "yes",
+   "rideDelta": [
+    2003221,
+    -4182990,
+    -12010973
+   ]
+  },
+  {
+   "id": "L06",
+   "name": "1 Av",
+   "routes": "L",
+   "users": 43480,
+   "through": 156319,
+   "walkLine": 473,
+   "walkAny": 378,
+   "walkStation": 514,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -5282882,
+    -11535630
+   ]
+  },
+  {
+   "id": "D35",
+   "name": "Kings Hwy",
+   "routes": "B Q",
+   "users": 28501,
+   "through": 48871,
+   "walkLine": 638,
+   "walkAny": 597,
+   "walkStation": 1067,
+   "ada": "yes",
+   "rideDelta": [
+    955295,
+    -599119,
+    -2553966
+   ]
+  },
+  {
+   "id": "627",
+   "name": "77 St",
+   "routes": "6",
+   "users": 44032,
+   "through": 118112,
+   "walkLine": 442,
+   "walkAny": 265,
+   "walkStation": 721,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3584752,
+    -8309230
+   ]
+  },
+  {
+   "id": "F18",
+   "name": "York St",
+   "routes": "F",
+   "users": 24008,
+   "through": 84656,
+   "walkLine": 754,
+   "walkAny": 198,
+   "walkStation": 916,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -2639780,
+    -6026007
+   ]
+  },
+  {
+   "id": "128",
+   "name": "34 St-Penn Station",
+   "routes": "1 2 3",
+   "users": 108607,
+   "through": 237713,
+   "walkLine": 240,
+   "walkAny": 45,
+   "walkStation": 433,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -7666493,
+    -17174999
+   ]
+  },
+  {
+   "id": "R14",
+   "name": "57 St-7 Av",
+   "routes": "N Q R W",
+   "users": 55369,
+   "through": 205261,
+   "walkLine": 438,
+   "walkAny": 72,
+   "walkStation": 547,
+   "ada": "yes",
+   "rideDelta": [
+    1503703,
+    -4650127,
+    -12860575
+   ]
+  },
+  {
+   "id": "Q04",
+   "name": "86 St",
+   "routes": "Q",
+   "users": 38420,
+   "through": 24545,
+   "walkLine": 484,
+   "walkAny": 324,
+   "walkStation": 713,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -852892,
+    -1834675
+   ]
+  },
+  {
+   "id": "702",
+   "name": "Mets-Willets Point",
+   "routes": "7",
+   "users": 12534,
+   "through": 73223,
+   "walkLine": 767,
+   "walkAny": 767,
+   "walkStation": 924,
+   "ada": "no",
+   "rideDelta": [
+    3940,
+    -2306619,
+    -5235537
+   ]
+  },
+  {
+   "id": "M10",
+   "name": "Central Av",
+   "routes": "M",
+   "users": 6430,
+   "through": 23473,
+   "walkLine": 2988,
+   "walkAny": 2988,
+   "walkStation": 661,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -984050,
+    -1922963
+   ]
+  },
+  {
+   "id": "B06",
+   "name": "Roosevelt Island",
+   "routes": "M",
+   "users": 12878,
+   "through": 47489,
+   "walkLine": 1602,
+   "walkAny": 1602,
+   "walkStation": 2558,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -1654941,
+    -3554520
+   ]
+  },
+  {
+   "id": "126",
+   "name": "50 St",
+   "routes": "1",
+   "users": 39332,
+   "through": 131713,
+   "walkLine": 575,
+   "walkAny": 72,
+   "walkStation": 657,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3589625,
+    -8858158
+   ]
+  },
+  {
+   "id": "626",
+   "name": "86 St",
+   "routes": "4 5 6",
+   "users": 67821,
+   "through": 250215,
+   "walkLine": 477,
+   "walkAny": 271,
+   "walkStation": 745,
+   "ada": "partial",
+   "rideDelta": [
+    887633,
+    -7769766,
+    -17778375
+   ]
+  },
+  {
+   "id": "Q03",
+   "name": "72 St",
+   "routes": "Q",
+   "users": 47946,
+   "through": 58537,
+   "walkLine": 560,
+   "walkAny": 342,
+   "walkStation": 801,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -2036275,
+    -4377738
+   ]
+  },
+  {
+   "id": "D22",
+   "name": "Grand St",
+   "routes": "B D",
+   "users": 37070,
+   "through": 116779,
+   "walkLine": 737,
+   "walkAny": 113,
+   "walkStation": 966,
+   "ada": "no",
+   "rideDelta": [
+    0,
+    -3323590,
+    -7994737
+   ]
+  },
+  {
+   "id": "L08",
+   "name": "Bedford Av",
+   "routes": "L",
+   "users": 57644,
+   "through": 129863,
+   "walkLine": 484,
+   "walkAny": 404,
+   "walkStation": 709,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -4454333,
+    -9648867
+   ]
+  },
+  {
+   "id": "A28",
+   "name": "34 St-Penn Station",
+   "routes": "A C E",
+   "users": 127647,
+   "through": 201795,
+   "walkLine": 453,
+   "walkAny": 200,
+   "walkStation": 490,
+   "ada": "yes",
+   "rideDelta": [
+    0,
+    -5908606,
+    -13980413
+   ]
+  }
+ ],
+ "excluded": [
+  {
+   "id": "132",
+   "name": "14 St",
+   "routes": "1 2 3",
+   "reason": "hub"
+  },
+  {
+   "id": "A31",
+   "name": "14 St",
+   "routes": "A C E",
+   "reason": "hub"
+  },
+  {
+   "id": "D19",
+   "name": "14 St",
+   "routes": "F M",
+   "reason": "hub"
+  },
+  {
+   "id": "635",
+   "name": "14 St-Union Sq",
+   "routes": "4 5 6",
+   "reason": "hub"
+  },
+  {
+   "id": "L03",
+   "name": "14 St-Union Sq",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "R20",
+   "name": "14 St-Union Sq",
+   "routes": "N Q R W",
+   "reason": "hub"
+  },
+  {
+   "id": "A12",
+   "name": "145 St",
+   "routes": "A C",
+   "reason": "hub"
+  },
+  {
+   "id": "D13",
+   "name": "145 St",
+   "routes": "B D",
+   "reason": "hub"
+  },
+  {
+   "id": "222",
+   "name": "149 St-Hostos",
+   "routes": "2 5",
+   "reason": "hub"
+  },
+  {
+   "id": "415",
+   "name": "149 St-Hostos",
+   "routes": "4",
+   "reason": "hub"
+  },
+  {
+   "id": "414",
+   "name": "161 St-Yankee Stadium",
+   "routes": "4",
+   "reason": "hub"
+  },
+  {
+   "id": "D11",
+   "name": "161 St-Yankee Stadium",
+   "routes": "B D",
+   "reason": "hub"
+  },
+  {
+   "id": "A09",
+   "name": "168 St",
+   "routes": "A C",
+   "reason": "hub"
+  },
+  {
+   "id": "112",
+   "name": "168 St-Washington Hts",
+   "routes": "1",
+   "reason": "hub"
+  },
+  {
+   "id": "D17",
+   "name": "34 St-Herald Sq",
+   "routes": "B D F M",
+   "reason": "hub"
+  },
+  {
+   "id": "R17",
+   "name": "34 St-Herald Sq",
+   "routes": "N Q R W",
+   "reason": "hub"
+  },
+  {
+   "id": "726",
+   "name": "34 St-Hudson Yards",
+   "routes": "7",
+   "reason": "terminal"
+  },
+  {
+   "id": "F23",
+   "name": "4 Av-9 St",
+   "routes": "F G",
+   "reason": "hub"
+  },
+  {
+   "id": "R33",
+   "name": "4 Av-9 St",
+   "routes": "R",
+   "reason": "hub"
+  },
+  {
+   "id": "D16",
+   "name": "42 St-Bryant Pk",
+   "routes": "B D F M",
+   "reason": "hub"
+  },
+  {
+   "id": "A27",
+   "name": "42 St-Port Authority Bus Terminal",
+   "routes": "A C E",
+   "reason": "hub"
+  },
+  {
+   "id": "724",
+   "name": "5 Av",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "630",
+   "name": "51 St",
+   "routes": "6",
+   "reason": "hub"
+  },
+  {
+   "id": "629",
+   "name": "59 St",
+   "routes": "4 5 6",
+   "reason": "hub"
+  },
+  {
+   "id": "125",
+   "name": "59 St-Columbus Circle",
+   "routes": "1",
+   "reason": "hub"
+  },
+  {
+   "id": "A24",
+   "name": "59 St-Columbus Circle",
+   "routes": "A C B D",
+   "reason": "hub"
+  },
+  {
+   "id": "L02",
+   "name": "6 Av",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "B16",
+   "name": "62 St",
+   "routes": "D",
+   "reason": "hub"
+  },
+  {
+   "id": "710",
+   "name": "74 St-Broadway",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "L01",
+   "name": "8 Av",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "Q05",
+   "name": "96 St",
+   "routes": "Q",
+   "reason": "terminal"
+  },
+  {
+   "id": "R01",
+   "name": "Astoria-Ditmars Blvd",
+   "routes": "N W",
+   "reason": "terminal"
+  },
+  {
+   "id": "235",
+   "name": "Atlantic Av-Barclays Ctr",
+   "routes": "2 3 4 5",
+   "reason": "hub"
+  },
+  {
+   "id": "D24",
+   "name": "Atlantic Av-Barclays Ctr",
+   "routes": "B Q",
+   "reason": "hub"
+  },
+  {
+   "id": "R31",
+   "name": "Atlantic Av-Barclays Ctr",
+   "routes": "D N R",
+   "reason": "hub"
+  },
+  {
+   "id": "R45",
+   "name": "Bay Ridge-95 St",
+   "routes": "R",
+   "reason": "terminal"
+  },
+  {
+   "id": "D03",
+   "name": "Bedford Park Blvd",
+   "routes": "B D",
+   "reason": "terminal"
+  },
+  {
+   "id": "637",
+   "name": "Bleecker St",
+   "routes": "6",
+   "reason": "hub"
+  },
+  {
+   "id": "232",
+   "name": "Borough Hall",
+   "routes": "2 3",
+   "reason": "hub"
+  },
+  {
+   "id": "423",
+   "name": "Borough Hall",
+   "routes": "4 5",
+   "reason": "hub"
+  },
+  {
+   "id": "S04",
+   "name": "Botanic Garden",
+   "routes": "S",
+   "reason": "hub"
+  },
+  {
+   "id": "D40",
+   "name": "Brighton Beach",
+   "routes": "B Q",
+   "reason": "terminal"
+  },
+  {
+   "id": "H04",
+   "name": "Broad Channel",
+   "routes": "A S",
+   "reason": "terminal"
+  },
+  {
+   "id": "M23",
+   "name": "Broad St",
+   "routes": "J Z",
+   "reason": "terminal"
+  },
+  {
+   "id": "A51",
+   "name": "Broadway Junction",
+   "routes": "A C",
+   "reason": "hub"
+  },
+  {
+   "id": "J27",
+   "name": "Broadway Junction",
+   "routes": "J Z",
+   "reason": "hub"
+  },
+  {
+   "id": "L22",
+   "name": "Broadway Junction",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "D21",
+   "name": "Broadway-Lafayette St",
+   "routes": "B D F M",
+   "reason": "hub"
+  },
+  {
+   "id": "640",
+   "name": "Brooklyn Bridge-City Hall",
+   "routes": "4 5 6",
+   "reason": "hub"
+  },
+  {
+   "id": "639",
+   "name": "Canal St",
+   "routes": "6",
+   "reason": "hub"
+  },
+  {
+   "id": "M20",
+   "name": "Canal St",
+   "routes": "J Z",
+   "reason": "hub"
+  },
+  {
+   "id": "Q01",
+   "name": "Canal St",
+   "routes": "N Q",
+   "reason": "hub"
+  },
+  {
+   "id": "R23",
+   "name": "Canal St",
+   "routes": "R W",
+   "reason": "hub"
+  },
+  {
+   "id": "L29",
+   "name": "Canarsie-Rockaway Pkwy",
+   "routes": "L",
+   "reason": "terminal"
+  },
+  {
+   "id": "A36",
+   "name": "Chambers St",
+   "routes": "A C",
+   "reason": "hub"
+  },
+  {
+   "id": "M21",
+   "name": "Chambers St",
+   "routes": "J Z",
+   "reason": "hub"
+  },
+  {
+   "id": "F27",
+   "name": "Church Av",
+   "routes": "F G",
+   "reason": "terminal"
+  },
+  {
+   "id": "D43",
+   "name": "Coney Island-Stillwell Av",
+   "routes": "D F N Q",
+   "reason": "terminal"
+  },
+  {
+   "id": "R25",
+   "name": "Cortlandt St",
+   "routes": "R W",
+   "reason": "hub"
+  },
+  {
+   "id": "719",
+   "name": "Court Sq",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "G22",
+   "name": "Court Sq",
+   "routes": "G",
+   "reason": "hub"
+  },
+  {
+   "id": "F09",
+   "name": "Court Sq-23 St",
+   "routes": "E F",
+   "reason": "hub"
+  },
+  {
+   "id": "R28",
+   "name": "Court St",
+   "routes": "R",
+   "reason": "hub"
+  },
+  {
+   "id": "250",
+   "name": "Crown Hts-Utica Av",
+   "routes": "3 4",
+   "reason": "terminal"
+  },
+  {
+   "id": "F15",
+   "name": "Delancey St-Essex St",
+   "routes": "F",
+   "reason": "hub"
+  },
+  {
+   "id": "M18",
+   "name": "Delancey St-Essex St",
+   "routes": "M J Z",
+   "reason": "hub"
+  },
+  {
+   "id": "501",
+   "name": "Eastchester-Dyre Av",
+   "routes": "5",
+   "reason": "terminal"
+  },
+  {
+   "id": "A55",
+   "name": "Euclid Av",
+   "routes": "A C",
+   "reason": "terminal"
+  },
+  {
+   "id": "H11",
+   "name": "Far Rockaway-Mott Av",
+   "routes": "A",
+   "reason": "terminal"
+  },
+  {
+   "id": "247",
+   "name": "Flatbush Av-Brooklyn College",
+   "routes": "2 5",
+   "reason": "terminal"
+  },
+  {
+   "id": "701",
+   "name": "Flushing-Main St",
+   "routes": "7",
+   "reason": "terminal"
+  },
+  {
+   "id": "G08",
+   "name": "Forest Hills-71 Av",
+   "routes": "E F M R",
+   "reason": "terminal"
+  },
+  {
+   "id": "A45",
+   "name": "Franklin Av",
+   "routes": "C",
+   "reason": "hub"
+  },
+  {
+   "id": "S01",
+   "name": "Franklin Av",
+   "routes": "S",
+   "reason": "hub"
+  },
+  {
+   "id": "239",
+   "name": "Franklin Av-Medgar Evers College",
+   "routes": "2 3 4 5",
+   "reason": "hub"
+  },
+  {
+   "id": "229",
+   "name": "Fulton St",
+   "routes": "2 3",
+   "reason": "hub"
+  },
+  {
+   "id": "418",
+   "name": "Fulton St",
+   "routes": "4 5",
+   "reason": "hub"
+  },
+  {
+   "id": "A38",
+   "name": "Fulton St",
+   "routes": "A C",
+   "reason": "hub"
+  },
+  {
+   "id": "M22",
+   "name": "Fulton St",
+   "routes": "J Z",
+   "reason": "hub"
+  },
+  {
+   "id": "631",
+   "name": "Grand Central-42 St",
+   "routes": "4 5 6",
+   "reason": "hub"
+  },
+  {
+   "id": "723",
+   "name": "Grand Central-42 St",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "901",
+   "name": "Grand Central-42 St",
+   "routes": "S",
+   "reason": "hub"
+  },
+  {
+   "id": "301",
+   "name": "Harlem-148 St",
+   "routes": "3",
+   "reason": "terminal"
+  },
+  {
+   "id": "A02",
+   "name": "Inwood-207 St",
+   "routes": "A",
+   "reason": "terminal"
+  },
+  {
+   "id": "G14",
+   "name": "Jackson Hts-Roosevelt Av",
+   "routes": "E F M R",
+   "reason": "hub"
+  },
+  {
+   "id": "G05",
+   "name": "Jamaica Center-Parsons/Archer",
+   "routes": "E J Z",
+   "reason": "terminal"
+  },
+  {
+   "id": "F01",
+   "name": "Jamaica-179 St",
+   "routes": "F",
+   "reason": "terminal"
+  },
+  {
+   "id": "A41",
+   "name": "Jay St-MetroTech",
+   "routes": "A C F",
+   "reason": "hub"
+  },
+  {
+   "id": "R29",
+   "name": "Jay St-MetroTech",
+   "routes": "R",
+   "reason": "hub"
+  },
+  {
+   "id": "F11",
+   "name": "Lexington Av/53 St",
+   "routes": "E F",
+   "reason": "hub"
+  },
+  {
+   "id": "R11",
+   "name": "Lexington Av/59 St",
+   "routes": "N R W",
+   "reason": "hub"
+  },
+  {
+   "id": "L10",
+   "name": "Lorimer St",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "G29",
+   "name": "Metropolitan Av",
+   "routes": "G",
+   "reason": "hub"
+  },
+  {
+   "id": "M01",
+   "name": "Middle Village-Metropolitan Av",
+   "routes": "M",
+   "reason": "terminal"
+  },
+  {
+   "id": "L17",
+   "name": "Myrtle-Wyckoff Avs",
+   "routes": "L",
+   "reason": "hub"
+  },
+  {
+   "id": "M08",
+   "name": "Myrtle-Wyckoff Avs",
+   "routes": "M",
+   "reason": "hub"
+  },
+  {
+   "id": "257",
+   "name": "New Lots Av",
+   "routes": "3",
+   "reason": "terminal"
+  },
+  {
+   "id": "N04",
+   "name": "New Utrecht Av",
+   "routes": "N",
+   "reason": "hub"
+  },
+  {
+   "id": "D01",
+   "name": "Norwood-205 St",
+   "routes": "D",
+   "reason": "terminal"
+  },
+  {
+   "id": "A65",
+   "name": "Ozone Park-Lefferts Blvd",
+   "routes": "A",
+   "reason": "terminal"
+  },
+  {
+   "id": "228",
+   "name": "Park Place",
+   "routes": "2 3",
+   "reason": "hub"
+  },
+  {
+   "id": "608",
+   "name": "Parkchester",
+   "routes": "6",
+   "reason": "terminal"
+  },
+  {
+   "id": "601",
+   "name": "Pelham Bay Park",
+   "routes": "6",
+   "reason": "terminal"
+  },
+  {
+   "id": "D26",
+   "name": "Prospect Park",
+   "routes": "B Q S",
+   "reason": "terminal"
+  },
+  {
+   "id": "718",
+   "name": "Queensboro Plaza",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "R09",
+   "name": "Queensboro Plaza",
+   "routes": "N W",
+   "reason": "hub"
+  },
+  {
+   "id": "H15",
+   "name": "Rockaway Park-Beach 116 St",
+   "routes": "A S",
+   "reason": "terminal"
+  },
+  {
+   "id": "142",
+   "name": "South Ferry",
+   "routes": "1",
+   "reason": "hub"
+  },
+  {
+   "id": "127",
+   "name": "Times Sq-42 St",
+   "routes": "1 2 3",
+   "reason": "hub"
+  },
+  {
+   "id": "725",
+   "name": "Times Sq-42 St",
+   "routes": "7",
+   "reason": "hub"
+  },
+  {
+   "id": "902",
+   "name": "Times Sq-42 St",
+   "routes": "S",
+   "reason": "hub"
+  },
+  {
+   "id": "R16",
+   "name": "Times Sq-42 St",
+   "routes": "N Q R W",
+   "reason": "hub"
+  },
+  {
+   "id": "101",
+   "name": "Van Cortlandt Park-242 St",
+   "routes": "1",
+   "reason": "terminal"
+  },
+  {
+   "id": "A32",
+   "name": "W 4 St-Wash Sq",
+   "routes": "A C E",
+   "reason": "hub"
+  },
+  {
+   "id": "D20",
+   "name": "W 4 St-Wash Sq",
+   "routes": "B D F M",
+   "reason": "hub"
+  },
+  {
+   "id": "201",
+   "name": "Wakefield-241 St",
+   "routes": "2",
+   "reason": "terminal"
+  },
+  {
+   "id": "R27",
+   "name": "Whitehall St-South Ferry",
+   "routes": "R W",
+   "reason": "hub"
+  },
+  {
+   "id": "401",
+   "name": "Woodlawn",
+   "routes": "4",
+   "reason": "terminal"
+  },
+  {
+   "id": "E01",
+   "name": "World Trade Center",
+   "routes": "E",
+   "reason": "hub"
+  }
+ ]
+}

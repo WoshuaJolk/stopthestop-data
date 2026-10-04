@@ -1,0 +1,42 @@
+{
+ "rush_entries_exits": {
+  "7am": {
+   "3 Av": 492,
+   "1 Av": 2552,
+   "14 St-Union Sq (all lines)": 7868,
+   "1 Av / 3 Av": 5.2,
+   "14 St-Union Sq (all lines) / 3 Av": 16.0
+  },
+  "8am": {
+   "3 Av": 716,
+   "1 Av": 3621,
+   "14 St-Union Sq (all lines)": 12675,
+   "1 Av / 3 Av": 5.1,
+   "14 St-Union Sq (all lines) / 3 Av": 17.7
+  },
+  "7-9am": {
+   "3 Av": 1208,
+   "1 Av": 6173,
+   "14 St-Union Sq (all lines)": 20543,
+   "1 Av / 3 Av": 5.1,
+   "14 St-Union Sq (all lines) / 3 Av": 17.0
+  }
+ },
+ "l_riders_5pm": {
+  "L03": {
+   "on": 9801,
+   "off": 4556,
+   "through": 7879
+  },
+  "L05": {
+   "on": 507,
+   "off": 586,
+   "through": 19311
+  },
+  "L06": {
+   "on": 1745,
+   "off": 2632,
+   "through": 16718
+  }
+ }
+}

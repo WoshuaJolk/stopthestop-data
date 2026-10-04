@@ -1,0 +1,20 @@
+name: Check results
+
+on: [push, pull_request]
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install $(grep -E '^(numpy|pandas)==' requirements.txt)
+      - name: Rebuild stops.json and ranking.csv from the committed results
+        run: |
+          python pipeline/export.py
+          python pipeline/score.py
+          python pipeline/essay_grid.py
+      - name: Fail if any published number changed
+        run: git diff --exit-code results/
