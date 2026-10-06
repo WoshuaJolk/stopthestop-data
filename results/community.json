@@ -1,0 +1,482 @@
+{
+ "residents": {
+  "pct_65plus": {
+   "av3": 14.1,
+   "unionSq": 10.6,
+   "av1": 15.7,
+   "median": 14.7,
+   "lMedian": 10.9,
+   "manhattan": 18.1,
+   "nyc": 16.6,
+   "rank": 223,
+   "of": 408
+  },
+  "pct_75plus": {
+   "av3": 6.4,
+   "unionSq": 3.7,
+   "av1": 6.6,
+   "median": 6.0,
+   "lMedian": 4.2,
+   "manhattan": 8.4,
+   "nyc": 7.1,
+   "rank": 175,
+   "of": 408
+  },
+  "pct_65_alone_hh": {
+   "av3": 14.3,
+   "unionSq": 14.2,
+   "av1": 16.6,
+   "median": 11.0,
+   "lMedian": 8.6,
+   "manhattan": 15.6,
+   "nyc": 12.3,
+   "rank": 102,
+   "of": 408
+  },
+  "pct_under18": {
+   "av3": 8.8,
+   "unionSq": 7.1,
+   "av1": 10.5,
+   "median": 19.4,
+   "lMedian": 13.9,
+   "manhattan": 13.9,
+   "nyc": 20.2,
+   "rank": 380,
+   "of": 408
+  },
+  "pct_18_24": {
+   "av3": 19.9,
+   "unionSq": 43.3,
+   "av1": 12.5,
+   "median": 7.8,
+   "lMedian": 9.5,
+   "manhattan": 8.7,
+   "nyc": 8.1,
+   "rank": 9,
+   "of": 408
+  },
+  "pct_college": {
+   "av3": 21.0,
+   "unionSq": 37.7,
+   "av1": 9.1,
+   "median": 6.5,
+   "lMedian": 6.6,
+   "manhattan": 8.8,
+   "nyc": 7.2,
+   "rank": 9,
+   "of": 408
+  },
+  "pct_disabled": {
+   "av3": 5.4,
+   "unionSq": 3.1,
+   "av1": 12.0,
+   "median": 11.4,
+   "lMedian": 11.0,
+   "manhattan": 11.9,
+   "nyc": 12.4,
+   "rank": 388,
+   "of": 408
+  },
+  "pct_disabled_65plus": {
+   "av3": 24.8,
+   "unionSq": 10.6,
+   "av1": 28.8,
+   "median": 36.7,
+   "lMedian": 36.3,
+   "manhattan": 32.3,
+   "nyc": 35.4,
+   "rank": 352,
+   "of": 408
+  },
+  "pct_walking_difficulty": {
+   "av3": 2.5,
+   "unionSq": 1.1,
+   "av1": 5.5,
+   "median": 6.9,
+   "lMedian": 5.7,
+   "manhattan": 7.0,
+   "nyc": 7.6,
+   "rank": 381,
+   "of": 408
+  },
+  "pct_poverty": {
+   "av3": 13.4,
+   "unionSq": 6.5,
+   "av1": 15.7,
+   "median": 17.4,
+   "lMedian": 17.0,
+   "manhattan": 16.5,
+   "nyc": 17.9,
+   "rank": 262,
+   "of": 408
+  },
+  "pct_hh_under_25k": {
+   "av3": 12.4,
+   "unionSq": 8.9,
+   "av1": 19.5,
+   "median": 18.0,
+   "lMedian": 17.3,
+   "manhattan": 18.5,
+   "nyc": 19.4,
+   "rank": 308,
+   "of": 408
+  },
+  "median_hh_income_k": {
+   "av3": 197.9,
+   "unionSq": 200.0,
+   "av1": 120.2,
+   "median": 78.5,
+   "lMedian": 91.6,
+   "manhattan": 105.0,
+   "nyc": 80.9,
+   "rank": 19,
+   "of": 408
+  },
+  "pct_people_of_color": {
+   "av3": 33.9,
+   "unionSq": 45.6,
+   "av1": 40.6,
+   "median": 70.2,
+   "lMedian": 67.7,
+   "manhattan": 54.5,
+   "nyc": 69.0,
+   "rank": 357,
+   "of": 408
+  },
+  "pct_black": {
+   "av3": 3.8,
+   "unionSq": 7.0,
+   "av1": 6.2,
+   "median": 9.9,
+   "lMedian": 11.1,
+   "manhattan": 12.5,
+   "nyc": 20.4,
+   "rank": 292,
+   "of": 408
+  },
+  "pct_hispanic": {
+   "av3": 8.2,
+   "unionSq": 10.1,
+   "av1": 16.4,
+   "median": 22.5,
+   "lMedian": 29.2,
+   "manhattan": 24.4,
+   "nyc": 28.5,
+   "rank": 370,
+   "of": 408
+  },
+  "pct_asian": {
+   "av3": 16.9,
+   "unionSq": 22.3,
+   "av1": 12.3,
+   "median": 8.9,
+   "lMedian": 5.8,
+   "manhattan": 12.4,
+   "nyc": 14.6,
+   "rank": 127,
+   "of": 408
+  },
+  "pct_white": {
+   "av3": 66.1,
+   "unionSq": 54.4,
+   "av1": 59.4,
+   "median": 29.8,
+   "lMedian": 32.3,
+   "manhattan": 45.5,
+   "nyc": 31.0,
+   "rank": 52,
+   "of": 408
+  },
+  "pct_limited_english": {
+   "av3": 7.4,
+   "unionSq": 6.8,
+   "av1": 8.1,
+   "median": 18.9,
+   "lMedian": 10.3,
+   "manhattan": 13.2,
+   "nyc": 22.5,
+   "rank": 330,
+   "of": 408
+  },
+  "pct_foreign_born": {
+   "av3": 19.5,
+   "unionSq": 17.2,
+   "av1": 23.8,
+   "median": 33.9,
+   "lMedian": 27.5,
+   "manhattan": 28.2,
+   "nyc": 36.6,
+   "rank": 371,
+   "of": 408
+  },
+  "pct_hh_no_car": {
+   "av3": 80.8,
+   "unionSq": 78.5,
+   "av1": 79.3,
+   "median": 65.0,
+   "lMedian": 67.1,
+   "manhattan": 78.0,
+   "nyc": 55.3,
+   "rank": 45,
+   "of": 408
+  }
+ },
+ "counts": {
+  "residents": {
+   "av3": 12449.3,
+   "unionSq": 9250.7,
+   "av1": 48370.1,
+   "median": 13434.9,
+   "lMedian": 9272.5,
+   "rank": 242,
+   "of": 445
+  },
+  "n_65plus": {
+   "av3": 1755.1,
+   "unionSq": 984.2,
+   "av1": 7572.8,
+   "median": 1923.3,
+   "lMedian": 1169.5,
+   "rank": 243,
+   "of": 445
+  },
+  "n_65_alone_hh": {
+   "av3": 763.5,
+   "unionSq": 514.0,
+   "av1": 4035.0,
+   "median": 541.7,
+   "lMedian": 369.4,
+   "rank": 148,
+   "of": 445
+  },
+  "n_disabled": {
+   "av3": 694.0,
+   "unionSq": 293.3,
+   "av1": 5752.2,
+   "median": 1476.8,
+   "lMedian": 1146.2,
+   "rank": 337,
+   "of": 445
+  },
+  "n_walking_difficulty": {
+   "av3": 311.0,
+   "unionSq": 97.5,
+   "av1": 2579.4,
+   "median": 842.7,
+   "lMedian": 604.7,
+   "rank": 343,
+   "of": 445
+  },
+  "n_poverty": {
+   "av3": 1439.4,
+   "unionSq": 355.5,
+   "av1": 7467.1,
+   "median": 2044.4,
+   "lMedian": 2030.9,
+   "rank": 277,
+   "of": 445
+  },
+  "n_under18": {
+   "av3": 1095.2,
+   "unionSq": 652.8,
+   "av1": 5081.3,
+   "median": 2454.2,
+   "lMedian": 1768.3,
+   "rank": 336,
+   "of": 445
+  },
+  "schools_k12": {
+   "av3": 9.0,
+   "unionSq": 1.0,
+   "av1": 11.0,
+   "median": 4.0,
+   "lMedian": 4.0,
+   "rank": 80,
+   "of": 445
+  },
+  "public_school_seats": {
+   "av3": 3444.0,
+   "unionSq": 730.0,
+   "av1": 5378.0,
+   "median": 1178.0,
+   "lMedian": 1466.5,
+   "rank": 76,
+   "of": 445
+  }
+ },
+ "riders": {
+  "entries_per_day": {
+   "av3": 5272.6,
+   "unionSq": 66779.1,
+   "av1": 20569.7,
+   "median": 4432.7,
+   "lMedian": 5901.3,
+   "rank": 191,
+   "of": 426
+  },
+  "ride_pct_senior_disability": {
+   "av3": 3.2,
+   "unionSq": 4.9,
+   "av1": 3.6,
+   "median": 5.8,
+   "lMedian": 3.6,
+   "rank": 389,
+   "of": 426
+  },
+  "ride_pct_fair_fares": {
+   "av3": 2.5,
+   "unionSq": 3.1,
+   "av1": 2.9,
+   "median": 5.0,
+   "lMedian": 3.7,
+   "rank": 367,
+   "of": 426
+  },
+  "ride_pct_student": {
+   "av3": 3.9,
+   "unionSq": 4.7,
+   "av1": 5.0,
+   "median": 8.6,
+   "lMedian": 6.1,
+   "rank": 364,
+   "of": 426
+  },
+  "ride_senior_disability_per_day": {
+   "av3": 169.5,
+   "unionSq": 3256.4,
+   "av1": 735.9,
+   "median": 279.3,
+   "lMedian": 171.7,
+   "rank": 291,
+   "of": 426
+  },
+  "ride_fair_fares_per_day": {
+   "av3": 134.4,
+   "unionSq": 2077.5,
+   "av1": 595.3,
+   "median": 234.9,
+   "lMedian": 204.2,
+   "rank": 323,
+   "of": 426
+  },
+  "ride_student_per_day": {
+   "av3": 205.5,
+   "unionSq": 3141.4,
+   "av1": 1018.8,
+   "median": 377.9,
+   "lMedian": 344.2,
+   "rank": 342,
+   "of": 426
+  }
+ },
+ "distance": {
+  "now": 260,
+  "after": 419,
+  "farther": 5500123,
+  "fartherPct": 62.5,
+  "nycPop": 8804190
+ },
+ "places": [
+  {
+   "name": "The Jack and Jill School at St. George's Church",
+   "kind": "Day care",
+   "seats": 0,
+   "walk": 164,
+   "next": 404
+  },
+  {
+   "name": "New York Eye & Ear Outpatient Center",
+   "kind": "Hospital clinic",
+   "seats": 0,
+   "walk": 188,
+   "next": 251
+  },
+  {
+   "name": "Manhattan Comprehensive Night and Day High School",
+   "kind": "School",
+   "seats": 474,
+   "walk": 257,
+   "next": 287
+  },
+  {
+   "name": "6 schools at 40 Irving Place",
+   "kind": "School",
+   "seats": 2970,
+   "walk": 262,
+   "next": 290
+  },
+  {
+   "name": "Beginnings Nursery School, Inc.",
+   "kind": "Day care",
+   "seats": 0,
+   "walk": 262,
+   "next": 290
+  },
+  {
+   "name": "Friends Seminary",
+   "kind": "School",
+   "seats": 0,
+   "walk": 270,
+   "next": 464
+  },
+  {
+   "name": "Society of Third Street Music School Settlement",
+   "kind": "Day care",
+   "seats": 0,
+   "walk": 396,
+   "next": 444
+  },
+  {
+   "name": "NYU Langone Orthopedic Hospital",
+   "kind": "Hospital",
+   "seats": 0,
+   "walk": 448,
+   "next": 486
+  },
+  {
+   "name": "NYU Langone Rutherford",
+   "kind": "Hospital clinic",
+   "seats": 0,
+   "walk": 463,
+   "next": 524
+  },
+  {
+   "name": "PS of the Arts",
+   "kind": "Day care",
+   "seats": 0,
+   "walk": 586,
+   "next": 624
+  },
+  {
+   "name": "LearningSpring School",
+   "kind": "School",
+   "seats": 0,
+   "walk": 630,
+   "next": 637
+  }
+ ],
+ "line": {
+  "stations": 23,
+  "residents": 302948.3,
+  "pct_65plus": 12.6,
+  "pct_75plus": 5.2,
+  "pct_65_alone_hh": 10.4,
+  "pct_under18": 15.0,
+  "pct_18_24": 9.9,
+  "pct_college": 7.7,
+  "pct_disabled": 10.8,
+  "pct_disabled_65plus": 32.8,
+  "pct_walking_difficulty": 5.8,
+  "pct_poverty": 17.1,
+  "pct_hh_under_25k": 17.7,
+  "median_hh_income_k": 105.2,
+  "pct_people_of_color": 61.9,
+  "pct_black": 18.9,
+  "pct_hispanic": 28.6,
+  "pct_asian": 8.0,
+  "pct_white": 38.1,
+  "pct_limited_english": 12.9,
+  "pct_foreign_born": 28.1,
+  "pct_hh_no_car": 68.3
+ }
+}

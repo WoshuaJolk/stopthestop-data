@@ -22,6 +22,7 @@ Everything below is how those two terms are measured.
 | 4. Timetable simulation | `timetable_cuts.py` (uses `raptor.py`) | `results/timetable_cuts.csv` |
 | 5. Site inputs and ranking | `export.py`, `score.py` | `results/stops.json`, `results/ranking.csv` |
 | 6. 3 Av deep dive | `essay_*.py` | `results/third_ave/` |
+| 7. Who lives near each station | `demographics.py` | `results/demographics.csv`, `results/community.json` |
 
 ## 1. Ridership
 
@@ -134,6 +135,30 @@ The essay's figures for 3 Av use the same models, run once for that stop at a 50
   L riders getting on, off, and riding through each 14th St stop from 5 to 6pm. The latter routes trips on the
   screening model's static network, not the timetable. Union Sq counts all lines in its complex.
 - `essay_grid.py` sweeps stop cost and walking penalty for 3 Av.
+
+## Who lives near each station
+
+The site's [community page](https://stopthestop.com/community) asks whether 3 Av's neighborhood depends on its stop
+more than other neighborhoods do on theirs. `demographics.py` measures every station complex the same way:
+
+- **Residents.** Each 2020 Census block is assigned to the complex whose entrance is the shortest street walk away,
+  on the network from step 2, so nobody is counted twice. American Community Survey 2020-2024 estimates for age,
+  disability, poverty, income, race and Hispanic origin, language, place of birth, people 65 and older living alone,
+  and car ownership are taken at the block group or tract and spread over its blocks by 2020 population, then summed
+  per complex. Rates are compared only across complexes with at least 1,000 residents. As a check, the same measures
+  are repeated for everyone within a 500 m walk (`r500_*`), nearest or not.
+- **Riders.** MTA hourly ridership by fare class, January to August 2026: entries per day and the share paid with a
+  senior or disability fare, Fair Fares, or a student pass. These undercount, since many eligible riders pay full
+  fare, but equally at every station.
+- **Facilities.** Schools, day cares, hospitals, clinics, nursing homes, senior centers, and disability programs
+  from the NYC Facilities Database, each assigned to its nearest complex, with the walk to it and to the next
+  nearest.
+- **Who carries the cost.** Following the logic of a Title VI equity review, the residents nearest 3 Av, who would
+  walk farther, are compared with the pooled residents nearest the other 23 L complexes, as a stand-in for the riders
+  who pass through. It is not an official review.
+
+ACS estimates for small areas have wide margins of error; a rate for an area the size of 3 Av's can be off by a
+point or two.
 
 ## What the model leaves out
 

@@ -1,7 +1,7 @@
 PY ?= python
 MONTHS := 1 2 3 4 5 6 7 8
 
-.PHONY: score results rank export third-ave download od walks timetable all
+.PHONY: score results rank export third-ave community download od walks timetable all
 
 # Fast: rank stops from the committed results (seconds)
 score:
@@ -25,6 +25,10 @@ third-ave:
 	$(PY) pipeline/essay_ridership.py
 	$(PY) pipeline/essay_grid.py
 
+# Who lives near each station and who rides from it (needs make download; fetches ACS, fare, and facility data)
+community:
+	$(PY) pipeline/demographics.py
+
 download:
 	$(PY) pipeline/download.py
 
@@ -44,4 +48,4 @@ timetable:
 	rm -f results/timetable_cuts.csv
 	$(PY) pipeline/timetable_cuts.py
 
-all: download od walks rank timetable export third-ave
+all: download od walks rank timetable export third-ave community

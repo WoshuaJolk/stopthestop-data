@@ -26,6 +26,8 @@ Everything the site shows is in [`results/`](results). No setup needed.
 | [`walk_catchment.csv`](results/walk_catchment.csv) | Population- and job-weighted extra walk if a stop closes |
 | [`walk_entrance.csv`](results/walk_entrance.csv), [`walk_street.csv`](results/walk_street.csv) | Street walking distances between neighboring stations |
 | [`all_stops_2026-05.csv`](results/all_stops_2026-05.csv), [`ranked_2026-05.csv`](results/ranked_2026-05.csv) | Screening model for May 2026 alone, including excluded hubs and terminals |
+| [`demographics.csv`](results/demographics.csv) | Who lives nearest each station complex (age, disability, income, race, language), who rides from it by fare class, and the schools and hospitals closest to it |
+| [`community.json`](results/community.json) | The numbers on the site's [community page](https://stopthestop.com/community): 3 Av against its neighbors, the typical station, the rest of the L, and the city |
 
 The numbers in the site's essay about 3 Av are in [`results/third_ave/`](results/third_ave):
 
@@ -77,7 +79,8 @@ every stop. The simulation takes several hours on a laptop and uses every core.
 make all
 ```
 
-`make third-ave` regenerates the 3 Av figures once `data/` is downloaded. `make -n all` prints each step without running it.
+`make third-ave` regenerates the 3 Av figures once `data/` is downloaded, and `make community` the demographics (it
+also fetches Census, fare, and facility data into `data/demo`). `make -n all` prints each step without running it.
 
 ## Data sources
 
